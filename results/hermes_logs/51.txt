@@ -1,0 +1,18 @@
+The case 51 draft passed every check on the first try, so I didn't revise it. It's saved to /home/jackson19/boxscorebrief-evals/drafts/51.json. Nothing was published.
+
+Headline: Why Houston Is Our Pick
+
+Caption:
+Our model likes Houston tonight, and one factor did most of the work.
+
+The biggest push: tonight's players. Who is actually suiting up moved our model 6.0 points toward the Rockets. Recent point differential added 4.2 more, and team efficiency nudged it another 0.2. For reference, the average game starts at home team by 2.3.
+
+The pick: Houston Rockets, with an 85% win probability. Strong, but not a lock.
+
+Does Dallas have an answer, or does Houston roll at home?
+
+Hashtags: NBA, Basketball, HoustonRockets, DallasMavericks, Rockets, Mavericks, NBAPredictions, SportsAnalytics
+
+Checks: none failed on the first draft, and none fail now.
+
+session_id: 20261021_164740_6d129e

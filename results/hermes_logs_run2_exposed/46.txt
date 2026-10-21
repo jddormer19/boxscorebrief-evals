@@ -1,0 +1,24 @@
+The draft for case 46 is done and passed every check on the first try.
+
+Headline:
+49ers Climb From 4% to 14%
+
+Caption:
+Six weeks ago, San Francisco was a 4% Super Bowl shot. Watch the line climb.
+
+From Sep 8 to Oct 20, SF rose 10 points to 14%, the biggest jump on the board. KC was next, up 8 points from 2% to 10%, and MIN gained 6 to reach 10%. JAX peaked at 13% before settling at 9%, still up from 6%. NE sits right where it started at 7%.
+
+Our model simulates the rest of the season and the playoffs thousands of times each day, so every bump in that line is the season reshaping the race.
+
+Who climbs next, and who falls back?
+
+Hashtags: NFL, Football, SuperBowl, 49ers, SanFrancisco49ers, Chiefs, Vikings, Jaguars, Patriots, NFLPredictions
+
+Checks: none failed on the first draft, and none fail now.
+
+- Biggest riser: I worked out now minus start for each team: SF +10, KC +8, MIN +6, JAX +3, NE 0. JAX fell from its peak but still rose overall, so I didn't call it a faller.
+- "Six weeks": this number isn't in the facts. It's the 42 days from Sep 8 to Oct 20.
+- I avoided the word "odds" because the prompt bans it, and used "Super Bowl shot" and "line" instead.
+- drafts/46.json was already a committed file, and this replaced it. If you need the old version, `git diff drafts/46.json` shows the change. Nothing was published.
+
+session_id: 20261021_163102_1f3a3a

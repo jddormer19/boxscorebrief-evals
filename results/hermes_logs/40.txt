@@ -1,0 +1,22 @@
+I wrote the draft for case 40 and saved it to /home/jackson19/boxscorebrief-evals/drafts/40.json. Nothing was published.
+
+Headline: Knicks Lead Tonight's NBA Slate
+
+Caption:
+Three NBA games tonight, and our model's surest pick is in the Garden.
+
+The Knicks are its most confident call at 74% against the 76ers, projected 114.9 to 107.5. Not a lock: Philly takes this one about 1 time in 4.
+
+The one to watch is Thunder at Spurs. The model leans San Antonio at just 52%, with projections of 113.3 to 112.7. That's a coin flip, and OKC wins it nearly half the time. Elsewhere, Detroit is a 59% pick at home over Boston, projected 109.7 to 107.1.
+
+Swipe for every pick, win probability and projected score. Which call would you flip?
+
+Hashtags: NBA, Basketball, NBAPicks, NewYorkKnicks, Sixers, OKCThunder, SanAntonioSpurs, DetroitPistons, BostonCeltics
+
+Checks: none failed on the first draft, so I didn't revise it.
+
+Two things to know:
+- "1 time in 4" isn't in the facts. It's rounded from the Knicks' 74%, which leaves Philly about 26%. It passed the checker, but you can cut it if you want only numbers taken straight from the facts.
+- The game times in the case say October 20, which is yesterday, though the post is meant for tonight. I left times out of the caption, but the case data may be stale.
+
+session_id: 20261021_164103_348432

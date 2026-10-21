@@ -1,6 +1,18 @@
 {
-  "headline": "Road Hornets Get the Nod",
-  "caption": "One bar does almost all the work in tonight's Hornets-Nets pick.\n\nThe biggest factor: recent point differential, which moves our model 7.0 points toward Charlotte. Team efficiency pulls 0.3 back toward Brooklyn, and tonight's players push 0.3 toward Charlotte. All of that outweighs the usual home edge (an average game: home team by 2.3).\n\nThe pick: Hornets at 66%. Brooklyn still wins this one about a third of the time.\n\nShould recent form carry that much weight, or do the Nets hold serve at home?",
+  "headline": "Why the model likes Charlotte",
+  "caption": "The road team is the pick tonight. Here's why.\n\nAn average game starts with the home team by 2.3, so Brooklyn begins with the edge. The biggest bar flips it: Charlotte's recent point differential moved our model 7.0 points toward the Hornets. Team efficiency nudges 0.3 back toward the Nets, and tonight's players add 0.3 for Charlotte.\n\nThe result: Charlotte Hornets at 66% to win in Brooklyn.\n\nDo you buy the Hornets on the road tonight?",
   "hashtags": ["NBA", "Basketball", "CharlotteHornets", "BrooklynNets", "Hornets", "Nets", "NBAPicks", "SportsAnalytics"],
-  "facts": {"sport": "NBA", "game": "Charlotte Hornets at Brooklyn Nets", "start": "2026-10-21T18:30:00", "model_pick": "Charlotte Hornets", "win_probability": "66%", "what_moved_it": [{"factor": "Recent point differential", "toward": "CHA", "amount": 7.0, "unit": "pts"}, {"factor": "Team efficiency", "toward": "BKN", "amount": 0.3, "unit": "pts"}, {"factor": "Tonight's players", "toward": "CHA", "amount": 0.3, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+  "facts": {
+    "sport": "NBA",
+    "game": "Charlotte Hornets at Brooklyn Nets",
+    "start": "2026-10-21T18:30:00",
+    "model_pick": "Charlotte Hornets",
+    "win_probability": "66%",
+    "what_moved_it": [
+      {"factor": "Recent point differential", "toward": "CHA", "amount": 7.0, "unit": "pts"},
+      {"factor": "Team efficiency", "toward": "BKN", "amount": 0.3, "unit": "pts"},
+      {"factor": "Tonight's players", "toward": "CHA", "amount": 0.3, "unit": "pts"}
+    ],
+    "baseline": "Average game: home team by 2.3"
+  }
 }

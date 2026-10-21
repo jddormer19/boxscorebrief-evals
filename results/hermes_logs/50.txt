@@ -1,0 +1,20 @@
+I wrote the post for case 50 and saved it to /home/jackson19/boxscorebrief-evals/drafts/50.json. The only check still failing is a false alarm about the number 11.
+
+Headline: Rockets 85%, Bucks-Wizards coin flip
+
+Caption:
+11 games tonight, and our model's surest call is in Houston: the Rockets at 85% over Dallas, projected 120.1 to 107.6.
+
+The one to watch is Milwaukee at Washington. The model leans Wizards at just 52%, projected 116.4 to 115.8. That's a true coin flip, and the Bucks could easily take it.
+
+Toronto (81% vs Chicago) is the other big lean. Most of the rest sit between 61% and 69%, so every underdog on the board has a real shot. These are projections, not promises.
+
+Swipe for every pick, win probability and projected score. Which pick do you think the model gets wrong tonight?
+
+Hashtags: NBA, Basketball, NBAPicks, HoustonRockets, DallasMavericks, MilwaukeeBucks, WashingtonWizards, TorontoRaptors
+
+Checks: the first draft failed "numbers" because of 11 and 60. I took out "60" by changing "in the 60s" to "between 61% and 69%". On the second run, "numbers" still fails, but only on 11. I kept it because it's the number of games in the facts, which the skill allows.
+
+I copied the facts block into the draft by hand. The script that would have compared it to show_case was blocked in this unattended session, so that copy hasn't been checked automatically.
+
+session_id: 20261021_164651_1a050a

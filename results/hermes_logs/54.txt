@@ -1,0 +1,20 @@
+The draft for case 54 is saved at /home/jackson19/boxscorebrief-evals/drafts/54.json. Nothing was published.
+
+Headline: Luka's 40-point chance: 20%
+
+Caption:
+A 40-point game happens in about 0.9% of typical NBA games. Tonight our model gives Luka Doncic a 20% chance. That's roughly 22 times the usual rate, the biggest jump on the Oct 21 board.
+
+Josh Giddey is close behind: a 16% shot at a triple-double, against a usual rate of 0.8%. Further down, Anthony Edwards sits at 6.7% for 40+, Jalen Johnson at 6.6% for a triple-double, and Luka shows up again at 5.2% for one of those too.
+
+These are chances, not calls. Even at 20%, Luka most likely finishes under 40. The point is how far above normal these players start, from models tested on seasons they never trained on.
+
+Which one hits tonight: Luka's 40, Giddey's triple-double, or someone further down the list?
+
+Hashtags: NBA, Basketball, NBAStats, LukaDoncic, JoshGiddey, AnthonyEdwards, JalenJohnson, Lakers, Bulls
+
+Checks: the first draft failed only "numbers", and it still fails, because I kept the flagged number on purpose. The checker flagged "22", but it's simple math from the facts: 20% ÷ 0.9% ≈ 22, so I left it in. This is the false-alarm case the skill allows.
+
+The facts don't say why the model rates Luka so high, so I didn't make up a reason (prompt v2 asks for one, but its rules ban inventing reasons). The caption leans on how far above the usual rate he is instead.
+
+session_id: 20261021_164905_f2178b

@@ -1,0 +1,18 @@
+I wrote the draft to /home/jackson19/boxscorebrief-evals/drafts/48.json. Nothing was published.
+
+Headline: Milwaukee Surges, Dodgers Crash Out
+
+Caption:
+On Sep 27, Milwaukee was a 26% shot at the World Series. Now it's 67%.
+
+The Brewers are the biggest riser, peaking at 69% along the way. Tampa Bay climbed too, from 10% to 33%, and is sitting at its peak.
+
+The biggest faller is LA. The Dodgers started at 24%, rose as high as 37%, and are now at 0%. Cleveland (peak 20%) and New York (peak 17%) are also down to 0%.
+
+Our model simulates the rest of the season and the playoffs thousands of times each day. Can Tampa Bay flip the script?
+
+I worked out now minus start for every team before naming the riser and faller: MIL +41, TB +23, LAD -24, NYY -10, CLE -8.
+
+Checks: none failed on the first draft, none still fail, and no revisions were needed.
+
+session_id: 20261021_164534_92e2cc

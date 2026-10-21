@@ -1,0 +1,18 @@
+I've written a fresh draft for case 48 at /home/jackson19/boxscorebrief-evals/drafts/48.json. It replaced an older draft from the contaminated run 1 (still in git at commit 970723e); I didn't reuse any of its wording.
+
+Headline: Milwaukee's 41-Point Climb
+
+Caption:
+Watch the World Series race redraw itself from Sep 27 to Oct 20.
+
+MIL started at 26% and now sits at 67%, topping out at 69% along the way. That +41 is the biggest rise on the board. TB is the other riser, from 10% to 33%.
+
+The hardest fall belongs to LAD: 24% at the start, as high as 37%, and now 0%. CLE (peak 20%) and NYY (peak 17%) also hit 0%. Our model simulates the rest of the season and the playoffs thousands of times each day, so the line moves with every result. 67% is not a lock: TB takes the title about 1 time in 3.
+
+Which swing surprised you most?
+
+Hashtags: MLB, Baseball, WorldSeries, MLBPostseason, Brewers, Rays, Dodgers, Guardians, Yankees
+
+Checks: only "numbers" failed on the first draft, and it still fails because 41 isn't in the facts. I kept it on purpose. It's simple math from the facts (MIL now 67% minus start 26%), and the v2 prompt asks for exactly that subtraction to find the biggest riser. I made no revisions.
+
+session_id: 20261021_163222_4cef35

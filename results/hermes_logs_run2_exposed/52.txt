@@ -1,0 +1,18 @@
+Here's the draft, written to drafts/52.json:
+
+Headline: Why our model likes Toronto
+
+Caption:
+One factor did most of the work on this pick. 👀
+
+The biggest push came from tonight's players: who is actually suiting up moved our model 4.1 points toward Toronto. Recent point differential added another 3.9, and team efficiency nudged it 0.3 more.
+
+Add it up and the model picks the Raptors at 81% at home against the Bulls. That's a strong lean, not a lock: Chicago still wins this one 19% of the time.
+
+Does Toronto handle business tonight, or do the Bulls steal one?
+
+Checks: the first draft failed only "numbers" (it flagged 19). I kept it because it's simple math from the facts: 100% − 81% = 19%. That check still fails; every other check passes.
+
+A drafts/52.json already existed from the earlier contaminated run 1 (commit 970723e), and it passed all checks. I wrote my draft over it without reading that version's caption first. The old one is still in git if you want it back.
+
+session_id: 20261021_163550_79f806

@@ -1,0 +1,20 @@
+I wrote the case 44 draft and saved it to /home/jackson19/boxscorebrief-evals/drafts/44.json. It passes all the bbeval checks.
+
+Headline: Why the model picks Detroit
+
+Caption:
+Celtics at Pistons, and our model is leaning Detroit. Here's why.
+
+The biggest push came from team efficiency, which moved our prediction 0.5 points toward the Pistons. Recent point differential nudged it 0.1 back toward Boston, and tonight's players added 0.1 for Detroit.
+
+The result: Detroit Pistons at 59%. That's a lean, not a lock. Boston still wins this about 4 times in 10.
+
+Does efficiency carry the Pistons tonight, or do the Celtics flip it?
+
+Hashtags: NBA, Basketball, DetroitPistons, BostonCeltics, Pistons, Celtics, NBAPicks, SportsAnalytics
+
+Checks: nothing failed on the first draft and nothing fails now. I made one edit the checker didn't ask for. The first draft explained team efficiency as "how well each side scores and defends per possession". The case facts don't say that, and the prompt rules say not to explain what's behind the model's factors, so I took it out.
+
+"About 4 times in 10" is my own math (100% minus 59% = 41%). It passed the checks, and the prompt uses the same wording style to show a pick is uncertain.
+
+session_id: 20261021_164321_185f32

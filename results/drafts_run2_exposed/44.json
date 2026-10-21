@@ -1,0 +1,6 @@
+{
+  "headline": "Efficiency Tilts It to Detroit",
+  "caption": "Celtics at Pistons, and one bar grows bigger than the rest.\n\nThe biggest factor is team efficiency. It moves our model 0.5 pts toward Detroit. Tonight's players nudge it 0.1 more toward DET, while recent point differential pulls 0.1 back toward Boston.\n\nThe pick: Detroit Pistons at 59%. A lean, not a lock: Boston wins this about 4 times in 10.\n\nDoes Detroit hold serve at home, or do the Celtics flip it?",
+  "hashtags": ["NBA", "Basketball", "DetroitPistons", "BostonCeltics", "Pistons", "Celtics", "NBAPredictions", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "game": "Boston Celtics at Detroit Pistons", "start": "2026-10-20T14:00:00", "model_pick": "Detroit Pistons", "win_probability": "59%", "what_moved_it": [{"factor": "Team efficiency", "toward": "DET", "amount": 0.5, "unit": "pts"}, {"factor": "Recent point differential", "toward": "BOS", "amount": 0.1, "unit": "pts"}, {"factor": "Tonight's players", "toward": "DET", "amount": 0.1, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+}

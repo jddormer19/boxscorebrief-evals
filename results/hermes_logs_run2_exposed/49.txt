@@ -1,0 +1,18 @@
+Draft saved to /home/jackson19/boxscorebrief-evals/drafts/49.json and it passed every check on the first try.
+
+Headline: NFL Week 7: Every Pick
+
+Caption:
+Our model's surest call of NFL week 7 is the Minnesota Vikings at 71% over the Indianapolis Colts. Kyler Murray vs Daniel Jones, projected MIN 25.3, IND 18.5. Indianapolis still wins this about 3 times in 10.
+
+The one to circle: Kansas City Chiefs at Seattle Seahawks. Patrick Mahomes vs Drew Lock, and the model barely leans Seattle at 51%, projecting SEA 22.6, KC 22.2. Kansas City takes this one about half the time. That's as close to a coin flip as it gets.
+
+Projected scores are the model's estimate of points, not a guarantee. Swipe for every game with its pick, win probability and projection.
+
+Which pick would you flip?
+
+Checks: nothing failed on the first draft and nothing fails now.
+
+This run may not be a clean eval sample. drafts/49.json already held the caption from your contaminated run 1, and I wrote over that file. I'd already written this caption before I saw the old one: my first save attempt was refused because the file existed, and the text above is the same as that attempt apart from small wording changes. To save without overwriting blind, the tool made me read the whole file first, so I did see the old caption. If you want a fully blind sample, run it again with drafts/49.json moved out of the way first. The old draft is still in git at commit 970723e.
+
+session_id: 20261021_163308_5562e3

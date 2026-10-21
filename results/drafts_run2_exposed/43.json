@@ -1,0 +1,6 @@
+{
+  "headline": "Spurs by a Hair: 52%",
+  "caption": "Home court says Spurs. Tonight's lineups push back.\n\nOur model starts an average game at home team by 2.3. For Thunder at Spurs, the one factor that moved it was tonight's players, meaning who is actually suiting up. That shifted the prediction 1.6 points toward OKC.\n\nThe pick stays San Antonio at 52%, about as close to a coin flip as it gets. Oklahoma City wins this one about 48 times in 100.\n\nDoes home court hold up, or do the Thunder steal it?",
+  "hashtags": ["NBA", "Basketball", "Spurs", "Thunder", "SanAntonioSpurs", "OKCThunder", "NBAPredictions", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "game": "Oklahoma City Thunder at San Antonio Spurs", "start": "2026-10-20T20:30:00", "model_pick": "San Antonio Spurs", "win_probability": "52%", "what_moved_it": [{"factor": "Tonight's players", "toward": "OKC", "amount": 1.6, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+}

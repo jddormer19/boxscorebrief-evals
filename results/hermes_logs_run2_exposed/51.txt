@@ -1,0 +1,18 @@
+Headline: Why the Model Loves Houston
+
+Caption:
+Our model is all in on Houston tonight. Here's why.
+
+The biggest push: tonight's players. Who's actually suiting up moved our prediction 6.0 points toward the Rockets. Recent point differential added another 4.2, and team efficiency nudged it 0.2 more. For context, the average game starts at home team by 2.3.
+
+Add it up and the pick is the Houston Rockets at 85% to beat Dallas. Strong, but not a sure thing.
+
+Does Dallas have an answer, or is this one Houston's?
+
+Hashtags: NBA, Basketball, HoustonRockets, DallasMavericks, Rockets, Mavericks, NBAPicks, SportsAnalytics
+
+Checks: the first draft passed every check, so I didn't revise it. Nothing fails now.
+
+One thing to know: there was already a drafts/51.json from your contaminated run 1 (commit 970723e). I replaced it with this new draft. To get the old one back, run `git checkout 970723e -- drafts/51.json`. I also ran the checker on the old draft before replacing it, and it passed every check too. Ignore that result.
+
+session_id: 20261021_163508_c2f8ec

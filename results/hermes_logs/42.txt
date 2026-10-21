@@ -1,0 +1,24 @@
+The draft passes all checks on the second try. It's saved at /home/jackson19/boxscorebrief-evals/drafts/42.json.
+
+Headline: Why the model likes New York
+
+Caption:
+One bar decides this pick.
+
+Recent point differential pushed our model 5.0 points toward the Knicks, on top of a baseline where the average home team is favored by 2.3. That's how New York lands at 74% to beat Philadelphia.
+
+74% isn't a lock: the 76ers win this about 1 time in 4.
+
+Does recent form deserve that much weight?
+
+Hashtags: NBA, Basketball, Knicks, 76ers, NewYorkKnicks, Sixers, NBAPicks, SportsAnalytics
+
+Checks: the first draft failed "numbers" and "question"; nothing fails now.
+- "numbers" was a format mismatch. I wrote "5" and the facts say 5.0, so I changed the caption to "5.0".
+- "question": the caption ended with "Tell us below." I cut that line so it ends on the question.
+
+I also made two changes the checker didn't ask for, to keep the caption within the facts. I took out "almost all the work" (the facts don't support it) and "this early" (the facts don't say anything about the season).
+
+"1 time in 4" is Philadelphia's 26% chance, rounded.
+
+session_id: 20261021_164214_6a6ba8

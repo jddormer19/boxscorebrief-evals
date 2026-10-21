@@ -1,0 +1,6 @@
+{
+  "headline": "OKC Climbs, SA Cools Off",
+  "caption": "Watch the NBA title race redraw itself in one week.\n\nOKC is the biggest riser: 25% on Oct 13 to 27% on Oct 20, ending the week at its peak. SA spiked to 22% then fell back to 17%, below its 19% start. NY dipped from 14% to 12%, HOU ticked up from 8% to 9%, and DET held at 6%.\n\nOur model simulates the rest of the season and the playoffs thousands of times each day. These are chances, not sure things.\n\nIs OKC pulling away, or does SA get back to 22%?",
+  "hashtags": ["NBA", "Basketball", "NBATitleRace", "OKCThunder", "SanAntonioSpurs", "Knicks", "Rockets", "Pistons", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "prize": "NBA title", "from": "Oct 13", "to": "Oct 20", "teams": [{"team": "OKC", "now": "27%", "start": "25%", "peak": "27%"}, {"team": "SA", "now": "17%", "start": "19%", "peak": "22%"}, {"team": "NY", "now": "12%", "start": "14%", "peak": "14%"}, {"team": "HOU", "now": "9%", "start": "8%", "peak": "9%"}, {"team": "DET", "now": "6%", "start": "6%", "peak": "6%"}], "method": "Our model simulates the rest of the season and the playoffs thousands of times each day."}
+}

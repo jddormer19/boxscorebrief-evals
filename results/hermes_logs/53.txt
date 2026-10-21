@@ -1,0 +1,18 @@
+The draft for case 53 is saved at drafts/53.json.
+
+Headline: Why the model likes Charlotte
+
+Caption:
+The road team is the pick tonight. Here's why.
+
+An average game starts with the home team by 2.3, so Brooklyn begins with the edge. The biggest bar flips it: Charlotte's recent point differential moved our model 7.0 points toward the Hornets. Team efficiency nudges 0.3 back toward the Nets, and tonight's players add 0.3 for Charlotte.
+
+The result: Charlotte Hornets at 66% to win in Brooklyn.
+
+Do you buy the Hornets on the road tonight?
+
+Hashtags: NBA, Basketball, CharlotteHornets, BrooklynNets, Hornets, Nets, NBAPicks, SportsAnalytics
+
+Checks: the first draft passed every check, so I made no revisions.
+
+session_id: 20261021_164840_37b887

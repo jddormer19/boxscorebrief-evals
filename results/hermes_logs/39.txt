@@ -1,0 +1,14 @@
+Headline: Rays Win the ALCS
+
+Caption:
+The Tampa Bay Rays have won the ALCS, taking the series 4-2 over the Cleveland Guardians.
+
+Our model called it before the series started: Tampa Bay at a 56% chance, with a projected 4-3 series. The pick was right, and the length came within one game. A 56% call is closer to a coin flip than a lock, so this one was earned on the field.
+
+That makes our pre-series picks 7 of 9 so far this postseason.
+
+Did you see the Rays winning this series, or did Cleveland have you convinced?
+
+Checks: none failed on the first draft and none fail now. I still made one revision: the first version said "headed to the World Series" and "pennant." The checker didn't catch those, but they break the facts-only rule, so I took them out. The draft is saved at /home/jackson19/boxscorebrief-evals/drafts/39.json.
+
+session_id: 20261021_164028_5b4427

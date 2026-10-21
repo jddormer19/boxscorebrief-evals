@@ -1,0 +1,24 @@
+{
+  "headline": "Houston at 85% Tonight",
+  "caption": "11 NBA games tonight, and our model's most confident pick is the Houston Rockets at 85% over Dallas. The projection: HOU 120.1, DAL 107.6. Strong, but not a lock: Dallas wins this about 3 times in 20.\n\nThe coin flip of the night is Milwaukee at Washington. The model leans Wizards at just 52%, with a projected 116.4 to 115.8. Milwaukee takes this one nearly half the time.\n\nToronto (81% vs Chicago) is the other big favorite. Swipe for every game's pick, win probability and projected score. Projections are estimates, not guarantees.\n\nWhich pick would you flip?",
+  "hashtags": ["NBA", "Basketball", "NBATonight", "Rockets", "Mavericks", "Bucks", "Wizards", "Raptors", "Bulls"],
+  "facts": {
+    "sport": "NBA",
+    "season": 2027,
+    "period": "tonight",
+    "games": [
+      {"game": "Atlanta Hawks at Orlando Magic", "kickoff": "2026-10-21T18:00:00", "model_pick": "Orlando Magic", "win_probability": "62%", "projected_score": "ATL 113.4, ORL 116.9", "back_to_back": []},
+      {"game": "Milwaukee Bucks at Washington Wizards", "kickoff": "2026-10-21T18:00:00", "model_pick": "Washington Wizards", "win_probability": "52%", "projected_score": "MIL 115.8, WSH 116.4", "back_to_back": []},
+      {"game": "Minnesota Timberwolves at Miami Heat", "kickoff": "2026-10-21T18:30:00", "model_pick": "Miami Heat", "win_probability": "62%", "projected_score": "MIN 116.4, MIA 119.9", "back_to_back": []},
+      {"game": "Charlotte Hornets at Brooklyn Nets", "kickoff": "2026-10-21T18:30:00", "model_pick": "Charlotte Hornets", "win_probability": "66%", "projected_score": "CHA 112.2, BKN 107.3", "back_to_back": []},
+      {"game": "Chicago Bulls at Toronto Raptors", "kickoff": "2026-10-21T18:30:00", "model_pick": "Toronto Raptors", "win_probability": "81%", "projected_score": "CHI 111.0, TOR 121.6", "back_to_back": []},
+      {"game": "Utah Jazz at Memphis Grizzlies", "kickoff": "2026-10-21T19:00:00", "model_pick": "Memphis Grizzlies", "win_probability": "61%", "projected_score": "UTAH 119.9, MEM 123.2", "back_to_back": []},
+      {"game": "Indiana Pacers at New Orleans Pelicans", "kickoff": "2026-10-21T19:00:00", "model_pick": "New Orleans Pelicans", "win_probability": "66%", "projected_score": "IND 115.7, NO 120.6", "back_to_back": []},
+      {"game": "Dallas Mavericks at Houston Rockets", "kickoff": "2026-10-21T19:30:00", "model_pick": "Houston Rockets", "win_probability": "85%", "projected_score": "DAL 107.6, HOU 120.1", "back_to_back": []},
+      {"game": "Golden State Warriors at Los Angeles Lakers", "kickoff": "2026-10-21T21:00:00", "model_pick": "Los Angeles Lakers", "win_probability": "69%", "projected_score": "GS 109.8, LAL 115.4", "back_to_back": []},
+      {"game": "Phoenix Suns at Portland Trail Blazers", "kickoff": "2026-10-21T21:00:00", "model_pick": "Portland Trail Blazers", "win_probability": "68%", "projected_score": "PHX 108.9, POR 114.4", "back_to_back": []},
+      {"game": "Sacramento Kings at LA Clippers", "kickoff": "2026-10-21T21:30:00", "model_pick": "LA Clippers", "win_probability": "69%", "projected_score": "SAC 110.2, LAC 115.9", "back_to_back": []}
+    ],
+    "most_confident": "Houston Rockets 85%"
+  }
+}

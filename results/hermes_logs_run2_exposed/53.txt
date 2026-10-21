@@ -1,0 +1,18 @@
+Headline: Why our model backs Charlotte
+
+Caption:
+Brooklyn has home court. Our model still likes Charlotte. Here's why.
+
+The big bar is recent point differential: it moves our prediction 7.0 points toward the Hornets. Team efficiency nudges 0.3 toward the Nets and tonight's players nudge 0.3 back toward Charlotte, so those two basically cancel out. Start from the average game (home team by 2.3) and that one factor flips it.
+
+The pick: Charlotte Hornets, 66% to win at Brooklyn. Not a lock. Brooklyn wins this about a third of the time.
+
+Is recent form the right thing to trust this early, or does home court matter more?
+
+Hashtags: NBA, Basketball, CharlotteHornets, BrooklynNets, Hornets, Nets, NBAStats, SportsAnalytics
+
+Checks: the first draft failed only "numbers", because I wrote "7" and the facts say 7.0. I changed it to "7.0" and every check passes now.
+
+A note for your eval: drafts/53.json already held the committed draft from run 1, the run marked contaminated. My file tool won't overwrite a file until it has been read, so I saw that old caption. I had already written my draft, so it didn't affect what I wrote, but I did see it. The old version is still in git at commit 970723e.
+
+session_id: 20261021_163633_7cea6d

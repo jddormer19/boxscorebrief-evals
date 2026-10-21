@@ -1,0 +1,6 @@
+{
+  "headline": "Why our model backs Charlotte",
+  "caption": "Brooklyn has home court. Our model still likes Charlotte. Here's why.\n\nThe big bar is recent point differential: it moves our prediction 7.0 points toward the Hornets. Team efficiency nudges 0.3 toward the Nets and tonight's players nudge 0.3 back toward Charlotte, so those two basically cancel out. Start from the average game (home team by 2.3) and that one factor flips it.\n\nThe pick: Charlotte Hornets, 66% to win at Brooklyn. Not a lock. Brooklyn wins this about a third of the time.\n\nIs recent form the right thing to trust this early, or does home court matter more?",
+  "hashtags": ["NBA", "Basketball", "CharlotteHornets", "BrooklynNets", "Hornets", "Nets", "NBAStats", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "game": "Charlotte Hornets at Brooklyn Nets", "start": "2026-10-21T18:30:00", "model_pick": "Charlotte Hornets", "win_probability": "66%", "what_moved_it": [{"factor": "Recent point differential", "toward": "CHA", "amount": 7.0, "unit": "pts"}, {"factor": "Team efficiency", "toward": "BKN", "amount": 0.3, "unit": "pts"}, {"factor": "Tonight's players", "toward": "CHA", "amount": 0.3, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+}

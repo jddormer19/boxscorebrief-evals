@@ -1,0 +1,20 @@
+The draft for case 43 is in drafts/43.json and passed every rule check on the first try.
+
+Headline: Spurs by a Hair: 52%
+
+Caption:
+Home court says Spurs. Tonight's lineups push back.
+
+Our model starts an average game at home team by 2.3. For Thunder at Spurs, the one factor that moved it was tonight's players, meaning who is actually suiting up. That shifted the prediction 1.6 points toward OKC.
+
+The pick stays San Antonio at 52%, about as close to a coin flip as it gets. Oklahoma City wins this one about 48 times in 100.
+
+Does home court hold up, or do the Thunder steal it?
+
+Hashtags: NBA, Basketball, Spurs, Thunder, SanAntonioSpurs, OKCThunder, NBAPredictions, SportsAnalytics
+
+Checks: none failed on the first draft and none fail now. The "48 times in 100" isn't in the facts. It's 100 minus 52%, which counts as simple math under the skill's numbers rule, and the numbers check passed it.
+
+drafts/43.json already had a draft in it, and I replaced it with this one. The old version had the headline "Spurs Barely Edge OKC: 52%" and is gone unless it's in git.
+
+session_id: 20261021_162901_a31a1e

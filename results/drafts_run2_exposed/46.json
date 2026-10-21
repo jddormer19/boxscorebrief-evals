@@ -1,0 +1,19 @@
+{
+  "headline": "49ers Climb From 4% to 14%",
+  "caption": "Six weeks ago, San Francisco was a 4% Super Bowl shot. Watch the line climb.\n\nFrom Sep 8 to Oct 20, SF rose 10 points to 14%, the biggest jump on the board. KC was next, up 8 points from 2% to 10%, and MIN gained 6 to reach 10%. JAX peaked at 13% before settling at 9%, still up from 6%. NE sits right where it started at 7%.\n\nOur model simulates the rest of the season and the playoffs thousands of times each day, so every bump in that line is the season reshaping the race.\n\nWho climbs next, and who falls back?",
+  "hashtags": ["NFL", "Football", "SuperBowl", "49ers", "SanFrancisco49ers", "Chiefs", "Vikings", "Jaguars", "Patriots", "NFLPredictions"],
+  "facts": {
+    "sport": "NFL",
+    "prize": "Super Bowl",
+    "from": "Sep 8",
+    "to": "Oct 20",
+    "teams": [
+      {"team": "SF", "now": "14%", "start": "4%", "peak": "15%"},
+      {"team": "MIN", "now": "10%", "start": "4%", "peak": "10%"},
+      {"team": "KC", "now": "10%", "start": "2%", "peak": "10%"},
+      {"team": "JAX", "now": "9%", "start": "6%", "peak": "13%"},
+      {"team": "NE", "now": "7%", "start": "7%", "peak": "8%"}
+    ],
+    "method": "Our model simulates the rest of the season and the playoffs thousands of times each day."
+  }
+}

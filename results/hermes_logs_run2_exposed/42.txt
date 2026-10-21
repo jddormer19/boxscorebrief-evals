@@ -1,0 +1,22 @@
+I wrote the post for case 42 and saved it to drafts/42.json. All checks passed on the first draft, so it needed no revisions.
+
+Headline: One Bar Tilts It to NY
+
+Caption:
+One factor did the heavy lifting on this pick. Watch the bar.
+
+For 76ers at Knicks, the biggest mover was recent point differential: how much each team has been outscoring (or getting outscored by) opponents lately. It moved our model's prediction 5.0 points toward New York. For context, in an average game the model has the home team by 2.3.
+
+The pick: Knicks, 74% to win. That's a lean, not a lock. Philly wins this about 1 time in 4.
+
+Do you trust recent form this early, or is it too small a sample?
+
+Hashtags: NBA, Basketball, Knicks, 76ers, NewYorkKnicks, Sixers, NBAPicks, SportsAnalytics
+
+Checks: none failed on the first draft, and none fail now. "1 time in 4" is my rounding of Philly's 26% (100% minus 74%).
+
+Two things to know:
+- This replaced the drafts/42.json committed in 970723e, the run you marked as contaminated. You can get the old version back with `git checkout drafts/42.json`. The old caption said "Philly has a real shot to flip it" instead of giving Philly's chance as a number, which the v2 prompt asks for.
+- The game started 2026-10-20T18:00, which was yesterday. This is a pre-game "why this pick" reel, so it's stale unless you're using it as an eval sample rather than posting it.
+
+session_id: 20261021_162825_2ffa33

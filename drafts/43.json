@@ -1,6 +1,16 @@
 {
-  "headline": "Spurs Barely Edge OKC: 52%",
-  "caption": "One bar almost erases home court tonight.\n\nOur model starts every NBA game at its baseline: the home team by 2.3. For Thunder at Spurs, the biggest factor is tonight's players, meaning who is actually suiting up. It pushed our model's prediction 1.6 points toward Oklahoma City.\n\nThat nearly cancels out home court, so the pick is San Antonio at 52%. OKC wins this one almost as often as the Spurs do.\n\nHome court or tonight's lineups: which one decides this game?",
+  "headline": "Spurs by a whisker",
+  "caption": "The only bar in this one points the other way.\n\nTonight's players pushed our model 1.6 points toward the Thunder. But the starting point is a baseline where the average home team is favored by 2.3, and that home edge is still enough to keep San Antonio in front.\n\nThe result: Spurs at 52% to beat Oklahoma City. That's close to a coin flip, and the Thunder win this about 48 times in 100.\n\nDoes home court hold up against OKC's lineup tonight?",
   "hashtags": ["NBA", "Basketball", "Spurs", "Thunder", "SanAntonioSpurs", "OKCThunder", "NBAPicks", "SportsAnalytics"],
-  "facts": {"sport": "NBA", "game": "Oklahoma City Thunder at San Antonio Spurs", "start": "2026-10-20T20:30:00", "model_pick": "San Antonio Spurs", "win_probability": "52%", "what_moved_it": [{"factor": "Tonight's players", "toward": "OKC", "amount": 1.6, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+  "facts": {
+    "sport": "NBA",
+    "game": "Oklahoma City Thunder at San Antonio Spurs",
+    "start": "2026-10-20T20:30:00",
+    "model_pick": "San Antonio Spurs",
+    "win_probability": "52%",
+    "what_moved_it": [
+      {"factor": "Tonight's players", "toward": "OKC", "amount": 1.6, "unit": "pts"}
+    ],
+    "baseline": "Average game: home team by 2.3"
+  }
 }

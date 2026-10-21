@@ -1,0 +1,16 @@
+Headline: Two teams left standing
+
+Caption:
+Six contenders started the playoffs on Sept. 27. Two are still alive, and our model now has the Milwaukee Brewers at 67% to win the World Series.
+
+Milwaukee is the biggest riser, up 41 points from 26% (peaking at 69%). Tampa Bay climbed from 10% to 33%, and 22 of those points came today alone, jumping from 11%.
+
+The biggest fall belongs to the Los Angeles Dodgers: 24% at the start, as high as 37%, now out. Cleveland peaked at 20%, the Yankees at 17% and the White Sox at 9% before their runs ended.
+
+Brewers at 67%, Rays at 33%. Does Tampa Bay have one more climb in it?
+
+Checks: the first draft failed only "numbers" (it flagged 41). That's a false alarm: 41 is Milwaukee's 67% now minus its 26% at the start, so I kept it. Nothing else fails.
+
+Draft saved to /home/jackson19/boxscorebrief-evals/drafts/45.json. Note: that file already existed, committed in 970723e from the contaminated run 1. I deleted it without opening it, so I never saw any old caption text. It's still in git if you need it.
+
+session_id: 20261021_163016_eab238

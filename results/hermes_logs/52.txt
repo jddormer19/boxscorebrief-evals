@@ -1,0 +1,16 @@
+The case 52 draft passes every check after one revision. It's saved to /home/jackson19/boxscorebrief-evals/drafts/52.json and hasn't been published.
+
+Headline: Why our model backs Toronto
+
+Caption:
+Three bars, one direction: every factor tonight leans Raptors.
+
+The biggest push is tonight's players. Who's actually suiting up moved our model 4.1 points toward Toronto. Recent point differential added 3.9 more, and team efficiency a small 0.3. For reference, the average game starts at home team by 2.3.
+
+Add it up and the model picks Toronto at 81%. Not a lock: Chicago wins this about 2 times in 10.
+
+Bulls at Raptors tonight. Does Chicago find a way, or does the model have this one right?
+
+Checks: the first draft failed only "numbers", on the "6" in "tips at 6:30". I converted that from the 18:30 start time, but the facts don't give a timezone, so I removed it rather than call it a false alarm. Nothing fails now. "About 2 times in 10" is my own rounding of 100% − 81% = 19%, and the checker didn't flag it.
+
+session_id: 20261021_164808_e46897
