@@ -1,0 +1,331 @@
+id,split,kind,status,flags,headline,caption,facts,factual,flag_real,quality,notes
+39,test,series,published,,Rays Take the Pennant,"The Tampa Bay Rays are heading to the World Series after closing out the Cleveland Guardians 4-2 in the ALCS.
+
+Our model had the Rays before the series started, but only at 56%. That's barely better than a coin flip, so Cleveland had a real shot here. The model saw a long series and projected it would go 4-3. The Rays finished it a game early.
+
+The call was right, and that puts our pre-series picks at 7 of 9 so far this postseason.
+
+Was the Rays' win as close as 56% suggested, or did Tampa Bay make it look easier than expected?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #ALCS #Postseason #TampaBayRays #Rays #ClevelandGuardians #Guardians #MLBPlayoffs #BaseballAnalytics #MLBPredictions","{""series"": ""ALCS"", ""winner"": ""Tampa Bay Rays"", ""loser"": ""Cleveland Guardians"", ""result"": ""4-2"", ""model_pick"": {""team"": ""Tampa Bay Rays"", ""probability"": ""56%"", ""predicted_score"": ""4-3"", ""correct"": true}, ""series_picks_so_far"": ""7 of 9""}",Y,,5,sounds good!
+40,test,slate,draft,"Numbers not found in the stats: 1, 4",Knicks Lead Tonight's NBA Slate,"Three games tonight, and our model's strongest lean is the Knicks at 74% over the 76ers. Projection: NY 114.9, PHI 107.5. Confident, not certain: a 74% favorite still drops roughly 1 in 4.
+
+The one to watch is Thunder at Spurs, a near coin flip. San Antonio gets the slight nod at 52%, with a projected 113.3 to 112.7. Our model can barely separate them.
+
+In the opener, Detroit is the pick at 59% over Boston, projected 109.7 to 107.1. Swipe for every pick, win chance and projected score.
+
+Who's your upset of the night: Celtics in Detroit or Thunder in San Antonio?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #NBAPicks #Knicks #Sixers #Spurs #Thunder #Pistons #Celtics #BoxscoreBrief","{""sport"": ""NBA"", ""season"": 2027, ""period"": ""tonight"", ""games"": [{""game"": ""Boston Celtics at Detroit Pistons"", ""kickoff"": ""2026-10-20T14:00:00"", ""model_pick"": ""Detroit Pistons"", ""win_probability"": ""59%"", ""projected_score"": ""BOS 107.1, DET 109.7"", ""back_to_back"": []}, {""game"": ""Philadelphia 76ers at New York Knicks"", ""kickoff"": ""2026-10-20T18:00:00"", ""model_pick"": ""New York Knicks"", ""win_probability"": ""74%"", ""projected_score"": ""PHI 107.5, NY 114.9"", ""back_to_back"": []}, {""game"": ""Oklahoma City Thunder at San Antonio Spurs"", ""kickoff"": ""2026-10-20T20:30:00"", ""model_pick"": ""San Antonio Spurs"", ""win_probability"": ""52%"", ""projected_score"": ""OKC 112.7, SA 113.3"", ""back_to_back"": []}], ""most_confident"": ""New York Knicks 74%""}",Y,N,3,I would change the last sentence in the first paragraph to make more sense. I would exclude the part about how the inverse of 74% is 1 in 4.
+41,test,weekresults,draft,Numbers not found in the stats: 35.7,Week 6: A Rough 5-9,"We went 5-9 in Week 6. No spin: that's a bad week, and we're posting every miss.
+
+The ones that stung: LA at 84% fell 18-16 to ARI, IND at 78% lost 26-20 to TEN, and BAL at 67% dropped a 10-13 grinder in CLE. Favorites of 63-66% (JAX, ATL, NYG) all went down too. Our coin flips didn't help: SEA at 50%, PHI and TB at 52%, all misses.
+
+The hits: NE (83%), SF (83%), KC (76%) in a 22-6 win over LAC, BUF (67%) in a 33-30 thriller, and GB (56%). Season so far: 5 of 14, 35.7%, and our projected totals have been off by 11.4 points on average. Upsets happen, and this week they piled up.
+
+Which upset surprised you most: TEN over IND or ARI over LA?
+
+Follow for sports, by the numbers 📊
+
+#NFL #Football #NFLWeek6 #NFLPicks #SportsAnalytics #TennesseeTitans #ArizonaCardinals #ClevelandBrowns #NewEnglandPatriots","{""sport"": ""NFL"", ""season"": 2026, ""period"": ""Week 6"", ""record"": ""5-9"", ""games"": [{""game"": ""SEA @ DEN"", ""model_pick"": ""SEA 50%"", ""final_away_home"": ""14-17"", ""correct"": false}, {""game"": ""HOU @ JAX"", ""model_pick"": ""JAX 66%"", ""final_away_home"": ""34-31"", ""correct"": false}, {""game"": ""CHI @ ATL"", ""model_pick"": ""ATL 63%"", ""final_away_home"": ""31-23"", ""correct"": false}, {""game"": ""BAL @ CLE"", ""model_pick"": ""BAL 67%"", ""final_away_home"": ""10-13"", ""correct"": false}, {""game"": ""TEN @ IND"", ""model_pick"": ""IND 78%"", ""final_away_home"": ""26-20"", ""correct"": false}, {""game"": ""NYJ @ NE"", ""model_pick"": ""NE 83%"", ""final_away_home"": ""19-26"", ""correct"": true}, {""game"": ""NO @ NYG"", ""model_pick"": ""NYG 65%"", ""final_away_home"": ""34-27"", ""correct"": false}, {""game"": ""CAR @ PHI"", ""model_pick"": ""PHI 52%"", ""final_away_home"": ""25-14"", ""correct"": false}, {""game"": ""PIT @ TB"", ""model_pick"": ""TB 52%"", ""final_away_home"": ""26-19"", ""correct"": false}, {""game"": ""ARI @ LA"", ""model_pick"": ""LA 84%"", ""final_away_home"": ""18-16"", ""correct"": false}, {""game"": ""LAC @ KC"", ""model_pick"": ""KC 76%"", ""final_away_home"": ""6-22"", ""correct"": true}, {""game"": ""BUF @ LV"", ""model_pick"": ""BUF 67%"", ""final_away_home"": ""33-30"", ""correct"": true}, {""game"": ""DAL @ GB"", ""model_pick"": ""GB 56%"", ""final_away_home"": ""13-23"", ""correct"": true}, {""game"": ""WAS @ SF"", ""model_pick"": ""SF 83%"", ""final_away_home"": ""17-23"", ""correct"": true}], ""season_record"": {""games"": 14, ""correct"": 5, ""accuracy"": 0.357, ""logloss"": 0.8111, ""market_logloss"": 0.7614, ""avg_total_points_off"": 11.4}}",N,Y,1,we just started tracking NFL picks so how could we get 35.7%
+42,test,reel_why,draft,"Numbers not found in the stats: 1, 4",Why the Knicks Are 74%,"One bar decides this one. Watch it grow.
+
+Our model's biggest factor for 76ers at Knicks: recent point differential, simply how much teams have been winning or losing by lately. It pushes 5.0 points toward New York, on top of an average game where the home team is up by 2.3.
+
+The pick: Knicks at 74%. That's a strong lean, not a lock. A 74% favorite still loses about 1 in 4.
+
+Does recent form tell you more than anything else this early, or is Philly being undersold?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #NewYorkKnicks #Knicks #Philadelphia76ers #Sixers #NBAPredictions #SportsAnalytics","{""sport"": ""NBA"", ""game"": ""Philadelphia 76ers at New York Knicks"", ""start"": ""2026-10-20T18:00:00"", ""model_pick"": ""New York Knicks"", ""win_probability"": ""74%"", ""what_moved_it"": [{""factor"": ""Recent point differential"", ""toward"": ""NY"", ""amount"": 5.0, ""unit"": ""pts""}], ""baseline"": ""Average game: home team by 2.3""}",Y,N,3,lets not make the claim that the inverse of 74% is 1 in 4
+43,test,reel_why,published,,Spurs By A Whisker: 52%,"This one is basically a coin flip, and here's why. 👀
+
+The average NBA game starts with the home team up 2.3 points. The biggest factor tonight? Tonight's players, the actual lineups suiting up, which pull 1.6 points back toward OKC. That nearly erases San Antonio's home edge.
+
+Our model still leans Spurs, but only at 52%. That means the Thunder win this matchup almost half the time. Not a lock, just a lean.
+
+Who are you taking in Thunder at Spurs tonight?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #SanAntonioSpurs #OKCThunder #Spurs #Thunder #NBAPredictions #SportsAnalytics","{""sport"": ""NBA"", ""game"": ""Oklahoma City Thunder at San Antonio Spurs"", ""start"": ""2026-10-20T20:30:00"", ""model_pick"": ""San Antonio Spurs"", ""win_probability"": ""52%"", ""what_moved_it"": [{""factor"": ""Tonight's players"", ""toward"": ""OKC"", ""amount"": 1.6, ""unit"": ""pts""}], ""baseline"": ""Average game: home team by 2.3""}",Y,,5,looks good
+44,test,reel_why,draft,Numbers not found in the stats: 4,Why Detroit Gets The Nod,"Celtics at Pistons, and our model leans Detroit. Here's why.
+
+Start with the baseline: the average home team is a 2.3-point favorite. The biggest factor on top of that is team efficiency, meaning how many points each team scores and allows per trip down the floor. It pushes 0.5 pts toward Detroit. Tonight's players add 0.1 more for DET, while Boston's recent point differential pulls 0.1 back their way.
+
+The result: Detroit wins 59% of the time. That's a lean, not a lock. Boston takes this about 4 times in 10.
+
+Does Detroit hold serve at home, or do the Celtics flip it? 🏀
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #DetroitPistons #BostonCeltics #Pistons #Celtics #NBAPredictions #SportsAnalytics","{""sport"": ""NBA"", ""game"": ""Boston Celtics at Detroit Pistons"", ""start"": ""2026-10-20T14:00:00"", ""model_pick"": ""Detroit Pistons"", ""win_probability"": ""59%"", ""what_moved_it"": [{""factor"": ""Team efficiency"", ""toward"": ""DET"", ""amount"": 0.5, ""unit"": ""pts""}, {""factor"": ""Recent point differential"", ""toward"": ""BOS"", ""amount"": 0.1, ""unit"": ""pts""}, {""factor"": ""Tonight's players"", ""toward"": ""DET"", ""amount"": 0.1, ""unit"": ""pts""}], ""baseline"": ""Average game: home team by 2.3""}",Y,N,5,looks good. the 4 in 10 is reference to the 40% chance the celtics have
+45,test,oddschart,published,,Two Teams Left Standing,"The World Series picture just got a lot simpler. Only the Brewers and Rays remain, and our model's chart tells the whole wild ride.
+
+Milwaukee opened the playoffs at 26% and now sits at 67%, just off its 69% peak. Tampa Bay is the biggest riser of all: from 10% at the start to 33% now, including a 22-point jump today alone, from 11% to 33%.
+
+The fallers hurt. The Dodgers started at 24% and climbed as high as 37% before being eliminated. Cleveland peaked at 20%, the Yankees at 17%, and the White Sox at 9% after starting at just 3%.
+
+The model favors Milwaukee, but 33% is far from nothing: the Rays win this matchup about one time in three. Brewers or Rays?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #WorldSeries #MLBPostseason #MilwaukeeBrewers #TampaBayRays #Brewers #Rays #LosAngelesDodgers #SportsAnalytics #MLBPredictions #Postseason","{""chart"": ""Chance to win the World Series, per our model, since the start of the playoffs"", ""since"": ""2026-09-27"", ""teams"": [{""team"": ""Tampa Bay Rays"", ""at_start"": ""10%"", ""now"": ""33%"", ""peak"": ""33%"", ""eliminated"": false}, {""team"": ""Cleveland Guardians"", ""at_start"": ""8%"", ""now"": ""0%"", ""peak"": ""20%"", ""eliminated"": true}, {""team"": ""New York Yankees"", ""at_start"": ""10%"", ""now"": ""0%"", ""peak"": ""17%"", ""eliminated"": true}, {""team"": ""Chicago White Sox"", ""at_start"": ""3%"", ""now"": ""0%"", ""peak"": ""9%"", ""eliminated"": true}, {""team"": ""Milwaukee Brewers"", ""at_start"": ""26%"", ""now"": ""67%"", ""peak"": ""69%"", ""eliminated"": false}, {""team"": ""Los Angeles Dodgers"", ""at_start"": ""24%"", ""now"": ""0%"", ""peak"": ""37%"", ""eliminated"": true}], ""biggest_move_today"": {""team"": ""Tampa Bay Rays"", ""from"": ""11%"", ""to"": ""33%"", ""change_points"": 22}}",Y,,5,looks good. I like how we talked about many different stats here
+46,test,reel_odds,draft,Numbers not found in the stats: 49,49ers Climb to the Top,"From 4% to 14% in six weeks. Watch San Francisco take over the Super Bowl race.
+
+The Niners are now our model's favorite at 14%, just off their 15% peak. But the biggest jump belongs to Kansas City: 2% on Sep 8, 10% today. Minnesota also climbed from 4% to 10%. Jacksonville went the other way, peaking at 13% before sliding back to 9%, while New England sits right where it started at 7%.
+
+Our model simulates the rest of the season and the playoffs thousands of times each day, so every line here moves with what happens on the field. Even the favorite misses the Super Bowl far more often than not.
+
+Who makes the next big move before the deadline?
+
+Follow for sports, by the numbers 📊
+
+#NFL #Football #SuperBowl #49ers #Chiefs #Vikings #Jaguars #Patriots #NFLAnalytics #SportsAnalytics","{""sport"": ""NFL"", ""prize"": ""Super Bowl"", ""from"": ""Sep 8"", ""to"": ""Oct 20"", ""teams"": [{""team"": ""SF"", ""now"": ""14%"", ""start"": ""4%"", ""peak"": ""15%""}, {""team"": ""MIN"", ""now"": ""10%"", ""start"": ""4%"", ""peak"": ""10%""}, {""team"": ""KC"", ""now"": ""10%"", ""start"": ""2%"", ""peak"": ""10%""}, {""team"": ""JAX"", ""now"": ""9%"", ""start"": ""6%"", ""peak"": ""13%""}, {""team"": ""NE"", ""now"": ""7%"", ""start"": ""7%"", ""peak"": ""8%""}], ""method"": ""Our model simulates the rest of the season and the playoffs thousands of times each day.""}",Y,N,5,this was catching a hashtag from the team name 49ers
+47,test,reel_odds,published,,"OKC Climbs, Spurs Slip","One week, five contenders, and the title race already moved.
+
+OKC rose from 25% to 27% between Oct 13 and Oct 20 and sits on top at its peak. The big faller: SA hit 22% before sliding to 17%, below its 19% start. NY dipped from 14% to 12%, while HOU nudged up from 8% to 9%.
+
+Our model simulates the rest of the season and the playoffs thousands of times each day. These are chances, not certainties.
+
+Is the Spurs' dip a blip or a warning sign?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #NBAChampionship #OKCThunder #SanAntonioSpurs #Knicks #Rockets #Pistons #NBAPredictions #SportsAnalytics","{""sport"": ""NBA"", ""prize"": ""NBA title"", ""from"": ""Oct 13"", ""to"": ""Oct 20"", ""teams"": [{""team"": ""OKC"", ""now"": ""27%"", ""start"": ""25%"", ""peak"": ""27%""}, {""team"": ""SA"", ""now"": ""17%"", ""start"": ""19%"", ""peak"": ""22%""}, {""team"": ""NY"", ""now"": ""12%"", ""start"": ""14%"", ""peak"": ""14%""}, {""team"": ""HOU"", ""now"": ""9%"", ""start"": ""8%"", ""peak"": ""9%""}, {""team"": ""DET"", ""now"": ""6%"", ""start"": ""6%"", ""peak"": ""6%""}], ""method"": ""Our model simulates the rest of the season and the playoffs thousands of times each day.""}",Y,,5,we like the use of many stats to convey the idea
+48,test,reel_odds,published,,Milwaukee Climbed From 26% to 67%,"Watch the title race redraw itself in seconds. 📈
+
+On Sep 27 our model gave MIL a 26% chance to win the World Series. By Oct 20 that number is 67%, peaking at 69% along the way. TB made its own run, from 10% to 33%, and it is sitting at its peak right now.
+
+The fall was just as steep. LAD started at 24%, climbed as high as 37%, and now sits at 0%. CLE (peak 20%) and NYY (peak 17%) are also out at 0%. Our model simulates the rest of the season and playoffs thousands of times each day, so every swing here is the model reacting to real results. These are chances, not certainties: 67% still leaves TB a real shot.
+
+Is Milwaukee's climb or the Dodgers' collapse the bigger story?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #WorldSeries #Postseason #Brewers #Rays #Dodgers #Guardians #Yankees #MLBPlayoffs #SportsAnalytics","{""sport"": ""MLB"", ""prize"": ""World Series"", ""from"": ""Sep 27"", ""to"": ""Oct 20"", ""teams"": [{""team"": ""MIL"", ""now"": ""67%"", ""start"": ""26%"", ""peak"": ""69%""}, {""team"": ""TB"", ""now"": ""33%"", ""start"": ""10%"", ""peak"": ""33%""}, {""team"": ""LAD"", ""now"": ""0%"", ""start"": ""24%"", ""peak"": ""37%""}, {""team"": ""CLE"", ""now"": ""0%"", ""start"": ""8%"", ""peak"": ""20%""}, {""team"": ""NYY"", ""now"": ""0%"", ""start"": ""10%"", ""peak"": ""17%""}], ""method"": ""Our model simulates the rest of the season and the playoffs thousands of times each day.""}",Y,,5,good use of stats
+49,test,slate,draft,Numbers not found in the stats: 3,Week 7: Vikings Lead the Board,"Week 7 is loaded, and our model's most confident call is Minnesota Vikings over Indianapolis Colts at 71%. Kyler Murray vs Daniel Jones, projected MIN 25.3, IND 18.5. Confident, not certain: a 71% favorite still loses about 3 times in 10.
+
+The Sunday night one to watch is Kansas City Chiefs at Seattle Seahawks. Patrick Mahomes vs Drew Lock, and the model barely leans Seattle at 51%, projected SEA 22.6, KC 22.2. That's a coin flip. Dallas at Philadelphia (51% Cowboys) and New England at Chicago (50%) are just as tight.
+
+Swipe for every Week 7 game with the model's pick, win probability and projected score. 👉
+
+Which coin flip do you think the model gets wrong?
+
+Follow for sports, by the numbers 📊
+
+#NFL #Football #NFLWeek7 #MinnesotaVikings #KansasCityChiefs #SeattleSeahawks #PatrickMahomes #KylerMurray #NFLPredictions #NFLPicks","{""sport"": ""NFL"", ""season"": 2026, ""period"": ""week 7"", ""games"": [{""game"": ""New England Patriots at Chicago Bears"", ""kickoff"": ""2026-10-22T19:15:00"", ""model_pick"": ""New England Patriots"", ""win_probability"": ""50%"", ""projected_score"": ""NE 23.9, CHI 24.0"", ""quarterbacks"": ""Drake Maye vs Caleb Williams""}, {""game"": ""Pittsburgh Steelers at New Orleans Saints"", ""kickoff"": ""2026-10-25T08:30:00"", ""model_pick"": ""Pittsburgh Steelers"", ""win_probability"": ""62%"", ""projected_score"": ""PIT 25.3, NO 21.9"", ""quarterbacks"": ""Aaron Rodgers vs Tyler Shough""}, {""game"": ""Cincinnati Bengals at Baltimore Ravens"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""Cincinnati Bengals"", ""win_probability"": ""57%"", ""projected_score"": ""CIN 25.4, BAL 23.5"", ""quarterbacks"": ""Joe Burrow vs Tyler Huntley""}, {""game"": ""Cleveland Browns at Tennessee Titans"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""Cleveland Browns"", ""win_probability"": ""56%"", ""projected_score"": ""CLE 20.4, TEN 18.7"", ""quarterbacks"": ""Deshaun Watson vs Cam Ward""}, {""game"": ""Indianapolis Colts at Minnesota Vikings"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""Minnesota Vikings"", ""win_probability"": ""71%"", ""projected_score"": ""IND 18.5, MIN 25.3"", ""quarterbacks"": ""Daniel Jones vs Kyler Murray""}, {""game"": ""Miami Dolphins at New York Jets"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""New York Jets"", ""win_probability"": ""64%"", ""projected_score"": ""MIA 19.3, NYJ 23.7"", ""quarterbacks"": ""Malik Willis vs Geno Smith""}, {""game"": ""New York Giants at Houston Texans"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""Houston Texans"", ""win_probability"": ""68%"", ""projected_score"": ""NYG 19.8, HOU 25.6"", ""quarterbacks"": ""Jameis Winston vs C.J. Stroud""}, {""game"": ""San Francisco 49ers at Atlanta Falcons"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""San Francisco 49ers"", ""win_probability"": ""67%"", ""projected_score"": ""SF 27.2, ATL 22.3"", ""quarterbacks"": ""Brock Purdy vs Michael Penix Jr.""}, {""game"": ""Tampa Bay Buccaneers at Carolina Panthers"", ""kickoff"": ""2026-10-25T12:00:00"", ""model_pick"": ""Carolina Panthers"", ""win_probability"": ""66%"", ""projected_score"": ""TB 19.7, CAR 24.7"", ""quarterbacks"": ""Jalon Daniels vs Bryce Young""}, {""game"": ""Denver Broncos at Arizona Cardinals"", ""kickoff"": ""2026-10-25T15:05:00"", ""model_pick"": ""Denver Broncos"", ""win_probability"": ""64%"", ""projected_score"": ""DEN 24.7, ARI 20.8"", ""quarterbacks"": ""Bo Nix vs Jacoby Brissett""}, {""game"": ""Green Bay Packers at Detroit Lions"", ""kickoff"": ""2026-10-25T15:25:00"", ""model_pick"": ""Detroit Lions"", ""win_probability"": ""66%"", ""projected_score"": ""GB 24.6, DET 29.7"", ""quarterbacks"": ""Jordan Love vs Jared Goff""}, {""game"": ""Los Angeles Rams at Las Vegas Raiders"", ""kickoff"": ""2026-10-25T15:25:00"", ""model_pick"": ""Los Angeles Rams"", ""win_probability"": ""60%"", ""projected_score"": ""LA 26.6, LV 23.8"", ""quarterbacks"": ""Matthew Stafford vs Kirk Cousins""}, {""game"": ""Kansas City Chiefs at Seattle Seahawks"", ""kickoff"": ""2026-10-25T19:20:00"", ""model_pick"": ""Seattle Seahawks"", ""win_probability"":",Y,N,3,the 3 out of 10 shows the confidence level of the prediction
+50,test,slate,draft,"Numbers not found in the stats: 3, 11, 20","11 Games, One Big Favorite","Eleven NBA games tonight, and our model's strongest lean is Houston. The Rockets get an 85% win chance at home against Dallas, with a projected score of HOU 120.1, DAL 107.6. Strong, but not a lock: an 85% favorite still loses about 3 times in 20.
+
+The coin flip of the night is Milwaukee at Washington. The model barely leans Wizards at 52%, projecting WSH 116.4 to MIL 115.8. That's as close to a toss-up as it gets.
+
+Also worth watching: Toronto at 81% over Chicago, and Charlotte at 66% on the road in Brooklyn. Swipe for every pick, win chance and projected score on the slate.
+
+Which pick tonight do you think the model gets wrong?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #NBAPicks #HoustonRockets #DallasMavericks #WashingtonWizards #MilwaukeeBucks #TorontoRaptors #boxscorebrief","{""sport"": ""NBA"", ""season"": 2027, ""period"": ""tonight"", ""games"": [{""game"": ""Atlanta Hawks at Orlando Magic"", ""kickoff"": ""2026-10-21T18:00:00"", ""model_pick"": ""Orlando Magic"", ""win_probability"": ""62%"", ""projected_score"": ""ATL 113.4, ORL 116.9"", ""back_to_back"": []}, {""game"": ""Milwaukee Bucks at Washington Wizards"", ""kickoff"": ""2026-10-21T18:00:00"", ""model_pick"": ""Washington Wizards"", ""win_probability"": ""52%"", ""projected_score"": ""MIL 115.8, WSH 116.4"", ""back_to_back"": []}, {""game"": ""Minnesota Timberwolves at Miami Heat"", ""kickoff"": ""2026-10-21T18:30:00"", ""model_pick"": ""Miami Heat"", ""win_probability"": ""62%"", ""projected_score"": ""MIN 116.4, MIA 119.9"", ""back_to_back"": []}, {""game"": ""Charlotte Hornets at Brooklyn Nets"", ""kickoff"": ""2026-10-21T18:30:00"", ""model_pick"": ""Charlotte Hornets"", ""win_probability"": ""66%"", ""projected_score"": ""CHA 112.2, BKN 107.3"", ""back_to_back"": []}, {""game"": ""Chicago Bulls at Toronto Raptors"", ""kickoff"": ""2026-10-21T18:30:00"", ""model_pick"": ""Toronto Raptors"", ""win_probability"": ""81%"", ""projected_score"": ""CHI 111.0, TOR 121.6"", ""back_to_back"": []}, {""game"": ""Utah Jazz at Memphis Grizzlies"", ""kickoff"": ""2026-10-21T19:00:00"", ""model_pick"": ""Memphis Grizzlies"", ""win_probability"": ""61%"", ""projected_score"": ""UTAH 119.9, MEM 123.2"", ""back_to_back"": []}, {""game"": ""Indiana Pacers at New Orleans Pelicans"", ""kickoff"": ""2026-10-21T19:00:00"", ""model_pick"": ""New Orleans Pelicans"", ""win_probability"": ""66%"", ""projected_score"": ""IND 115.7, NO 120.6"", ""back_to_back"": []}, {""game"": ""Dallas Mavericks at Houston Rockets"", ""kickoff"": ""2026-10-21T19:30:00"", ""model_pick"": ""Houston Rockets"", ""win_probability"": ""85%"", ""projected_score"": ""DAL 107.6, HOU 120.1"", ""back_to_back"": []}, {""game"": ""Golden State Warriors at Los Angeles Lakers"", ""kickoff"": ""2026-10-21T21:00:00"", ""model_pick"": ""Los Angeles Lakers"", ""win_probability"": ""69%"", ""projected_score"": ""GS 109.8, LAL 115.4"", ""back_to_back"": []}, {""game"": ""Phoenix Suns at Portland Trail Blazers"", ""kickoff"": ""2026-10-21T21:00:00"", ""model_pick"": ""Portland Trail Blazers"", ""win_probability"": ""68%"", ""projected_score"": ""PHX 108.9, POR 114.4"", ""back_to_back"": []}, {""game"": ""Sacramento Kings at LA Clippers"", ""kickoff"": ""2026-10-21T21:30:00"", ""model_pick"": ""LA Clippers"", ""win_probability"": ""69%"", ""projected_score"": ""SAC 110.2, LAC 115.9"", ""back_to_back"": []}], ""most_confident"": ""Houston Rockets 85%""}",Y,N,3,this sounds silly to say that they are losers 3 out of 20. lets not add those stats
+51,test,reel_why,draft,"Numbers not found in the stats: 3, 20",Why Houston Is an 85% Pick,"Every bar in this one leans the same way.
+
+The biggest push: tonight's players. Who's actually suiting up moves our model 6.0 points toward Houston. Recent point differential adds another 4.2, and team efficiency tips in 0.2 more. Start from the average game (home team by 2.3) and it all stacks up for the Rockets.
+
+Model pick: Houston Rockets at 85% to beat Dallas. Strong, but not a lock. An 85% favorite still loses about 3 times in 20.
+
+Does Dallas pull the upset or does Houston hold serve?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #HoustonRockets #DallasMavericks #Rockets #Mavericks #NBAPredictions #SportsAnalytics","{""sport"": ""NBA"", ""game"": ""Dallas Mavericks at Houston Rockets"", ""start"": ""2026-10-21T19:30:00"", ""model_pick"": ""Houston Rockets"", ""win_probability"": ""85%"", ""what_moved_it"": [{""factor"": ""Tonight's players"", ""toward"": ""HOU"", ""amount"": 6.0, ""unit"": ""pts""}, {""factor"": ""Recent point differential"", ""toward"": ""HOU"", ""amount"": 4.2, ""unit"": ""pts""}, {""factor"": ""Team efficiency"", ""toward"": ""HOU"", ""amount"": 0.2, ""unit"": ""pts""}], ""baseline"": ""Average game: home team by 2.3""}",Y,N,3,lets not mention that an 85% favorite can lose 3 out of 20 times
+52,test,reel_why,draft,"Numbers not found in the stats: 1, 5",Why Toronto Is an 81% Pick,"Every bar in this one leans the same way.
+
+The biggest push toward the Raptors: tonight's players. Who's actually suiting up is worth 4.1 points to Toronto. Recent point differential adds another 3.9, and team efficiency tips in 0.3 more. All of that stacks on top of the usual home edge of 2.3 points.
+
+The result: our model makes Toronto an 81% pick over Chicago. Strong, not certain. An 81% favorite still loses about 1 time in 5.
+
+Do the Bulls have an upset in them tonight?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #TorontoRaptors #ChicagoBulls #Raptors #Bulls #NBAPredictions #SportsAnalytics","{""sport"": ""NBA"", ""game"": ""Chicago Bulls at Toronto Raptors"", ""start"": ""2026-10-21T18:30:00"", ""model_pick"": ""Toronto Raptors"", ""win_probability"": ""81%"", ""what_moved_it"": [{""factor"": ""Tonight's players"", ""toward"": ""TOR"", ""amount"": 4.1, ""unit"": ""pts""}, {""factor"": ""Recent point differential"", ""toward"": ""TOR"", ""amount"": 3.9, ""unit"": ""pts""}, {""factor"": ""Team efficiency"", ""toward"": ""TOR"", ""amount"": 0.3, ""unit"": ""pts""}], ""baseline"": ""Average game: home team by 2.3""}",Y,N,5,1 in 5 is a fine stats to add
+53,test,reel_why,draft,"Numbers not found in the stats: 1, 3",Why the Hornets Get the Nod,"The road team is the pick tonight, and one factor does almost all the work.
+
+Recent point differential swings it 7.0 points toward Charlotte. That's how much the Hornets have been outscoring opponents lately compared to Brooklyn. It easily outweighs the usual home edge (an average game leans home team by 2.3). Team efficiency nudges 0.3 toward the Nets, tonight's players nudge 0.3 back to Charlotte.
+
+The pick: Hornets at 66%. That still leaves Brooklyn winning about 1 in 3 of these.
+
+Does recent form deserve that much weight, or do the Nets hold serve at home?
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #CharlotteHornets #BrooklynNets #Hornets #Nets #NBAPicks #SportsAnalytics","{""sport"": ""NBA"", ""game"": ""Charlotte Hornets at Brooklyn Nets"", ""start"": ""2026-10-21T18:30:00"", ""model_pick"": ""Charlotte Hornets"", ""win_probability"": ""66%"", ""what_moved_it"": [{""factor"": ""Recent point differential"", ""toward"": ""CHA"", ""amount"": 7.0, ""unit"": ""pts""}, {""factor"": ""Team efficiency"", ""toward"": ""BKN"", ""amount"": 0.3, ""unit"": ""pts""}, {""factor"": ""Tonight's players"", ""toward"": ""CHA"", ""amount"": 0.3, ""unit"": ""pts""}], ""baseline"": ""Average game: home team by 2.3""}",Y,N,5,1 in 3 is a fine stat to add
+54,test,analytics,draft,"Numbers not found in the stats: 1, 5",Luka's 40-Point Chance: 1 in 5,"A 40-point night happens in about 0.9% of games. Our model gives Luka Doncic a 20% chance tonight. That's more than 20 times the usual rate.
+
+In plain words: the model thinks Luka carries so much of the Lakers' scoring load that a monster night is far more live for him than for a typical player. Josh Giddey isn't far behind, with a 16% triple-double chance against a usual 0.8%.
+
+Further down the Oct 21 list: Jalen Johnson triple-double 6.6%, Anthony Edwards 40+ at 6.7%, Giannis 40+ at 5.3%, Luka triple-double 5.2%, Giannis triple-double 4.8%, Sabonis triple-double 4.3%. These are chances, not calls. Even Luka's 20% means no 40 four nights in five.
+
+Which one actually happens tonight: Luka's 40 or Giddey's triple-double? 🏀
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #NBAAnalytics #LukaDoncic #JoshGiddey #Lakers #Bulls #AnthonyEdwards #JalenJohnson #TripleDouble #SportsAnalytics","{""sport"": ""NBA"", ""period"": ""Oct 21"", ""items"": [{""what"": ""Luka Doncic (LAL): Scores 40+"", ""chance"": ""20%"", ""usual_rate"": ""0.9%""}, {""what"": ""Josh Giddey (CHI): Triple-double"", ""chance"": ""16%"", ""usual_rate"": ""0.8%""}, {""what"": ""Jalen Johnson (ATL): Triple-double"", ""chance"": ""6.6%"", ""usual_rate"": ""0.8%""}, {""what"": ""Anthony Edwards (MIN): Scores 40+"", ""chance"": ""6.7%"", ""usual_rate"": ""0.9%""}, {""what"": ""Luka Doncic (LAL): Triple-double"", ""chance"": ""5.2%"", ""usual_rate"": ""0.8%""}, {""what"": ""Giannis Antetokounmpo (MIA): Triple-double"", ""chance"": ""4.8%"", ""usual_rate"": ""0.8%""}, {""what"": ""Giannis Antetokounmpo (MIA): Scores 40+"", ""chance"": ""5.3%"", ""usual_rate"": ""0.9%""}, {""what"": ""Domantas Sabonis (SAC): Triple-double"", ""chance"": ""4.3%"", ""usual_rate"": ""0.8%""}], ""method"": ""Calibrated probabilities from models tested on seasons they never trained on. 'Usual' is how often this happens in a typical game.""}",Y,N,5,good use of the stats
+1,dev,game,rejected,Numbers not found in the stats: 0,Brewers Strike First in NLCS,"One-run games are where October gets decided, and Milwaukee just won the first one.
+
+The Brewers edged the Dodgers 2-1 in NLCS Game 1 at American Family Field. Brice Turang went 1-for-2 with a home run, a walk and an RBI, and in a game this tight, one swing changes everything.
+
+Jacob Misiorowski gave Milwaukee 4.1 innings with 5 strikeouts and 1 earned run. DL Hall earned the win and Trevor Megill locked down the save. Tarik Skubal was strong for Los Angeles with 7 strikeouts over 5.0 innings, but 2 earned runs were enough to tag him with the loss. ⚾
+
+Can the Dodgers bounce back in Game 2, or does Milwaukee take a 2-0 lead?
+
+Follow for daily MLB numbers 📊
+
+#MLB #Baseball #Postseason #NLCS #Brewers #Dodgers #BriceTurang #JacobMisiorowski #TarikSkubal #TrevorMegill #Octoberball","{""date"": ""2026-10-11"", ""series"": ""NL Championship Series Game 1"", ""postseason"": true, ""away_team"": ""Los Angeles Dodgers"", ""away_score"": 1, ""home_team"": ""Milwaukee Brewers"", ""home_score"": 2, ""winner"": ""Milwaukee Brewers"", ""loser"": ""Los Angeles Dodgers"", ""innings"": 9, ""venue"": ""American Family Field"", ""decisions"": {""winner"": ""DL Hall"", ""loser"": ""Tarik Skubal"", ""save"": ""Trevor Megill""}, ""top_performers"": [{""name"": ""Brice Turang"", ""team"": ""Milwaukee Brewers"", ""line"": ""1-2 | HR, BB, RBI""}, {""name"": ""Jacob Misiorowski"", ""team"": ""Milwaukee Brewers"", ""line"": ""4.1 IP, ER, 5 K, 3 BB""}, {""name"": ""Tarik Skubal"", ""team"": ""Los Angeles Dodgers"", ""line"": ""5.0 IP, 2 ER, 7 K, 2 BB""}]}",Y,N,5,good use of stats
+2,dev,leaders,rejected,,Nuñez Runs Away With It,"Nobody in baseball is swiping bags like Nasim Nuñez right now. ⚡
+
+The Nationals speedster sits atop the 2026 stolen base leaderboard with 49, just ahead of Tampa Bay's Chandler Simpson at 46 and Kansas City's Bobby Witt Jr. at 45. That's only four steals separating the top three, so this race is far from settled.
+
+Jazz Chisholm Jr. of the Yankees and Pete Crow-Armstrong of the Cubs are tied for fourth at 41 each, keeping the pressure on the leaders.
+
+Who finishes the 2026 season as the stolen base king? Drop your pick below 👇
+
+Follow for daily MLB numbers 📊
+
+#MLB #Baseball #StolenBases #NasimNunez #ChandlerSimpson #BobbyWittJr #JazzChisholmJr #PeteCrowArmstrong #Nationals #MLBStats","{""season"": 2026, ""category"": ""Stolen Base Leaders"", ""stat"": ""SB"", ""leaders"": [{""rank"": 1, ""name"": ""Nasim Nuñez"", ""team"": ""Washington Nationals"", ""value"": ""49""}, {""rank"": 2, ""name"": ""Chandler Simpson"", ""team"": ""Tampa Bay Rays"", ""value"": ""46""}, {""rank"": 3, ""name"": ""Bobby Witt Jr."", ""team"": ""Kansas City Royals"", ""value"": ""45""}, {""rank"": 4, ""name"": ""Jazz Chisholm Jr."", ""team"": ""New York Yankees"", ""value"": ""41""}, {""rank"": 4, ""name"": ""Pete Crow-Armstrong"", ""team"": ""Chicago Cubs"", ""value"": ""41""}]}",Y,,5,looks good
+8,dev,overview,rejected,,12-12: Brewers Still Title Favorites,"Our model went 12-12 in games this postseason. That's a coin flip, and we're not hiding it. Series picks have been kinder: 5 of 7 right.
+
+Slide 1: Milwaukee leads everyone at 55% to win it all and 79% for the pennant. Cleveland (18%), the Dodgers (15%) and Tampa Bay (12%) chase. Slide 2: the recent picks, misses included. We whiffed on the White Sox twice and on Tampa Bay at 60% vs Cleveland, but nailed the Brewers in both games against LA.
+
+Slide 3: what's next. The model leans Dodgers at 58% in NLCS Game 3, while the ALCS is razor thin, with Rays-Guardians games sitting at 50-51%. Close calls, not locks. Swipe through all three.
+
+Who takes the ALCS when the model can barely split them? 👇
+
+Follow for daily MLB numbers 📊
+
+#MLB #Baseball #MLBPostseason #ALCS #NLCS #Brewers #Guardians #Dodgers #Rays #BaseballAnalytics #MLBPredictions #Postseason","{""title_odds"": [{""team"": ""Milwaukee Brewers"", ""title"": ""55%"", ""pennant"": ""79%""}, {""team"": ""Cleveland Guardians"", ""title"": ""18%"", ""pennant"": ""63%""}, {""team"": ""Los Angeles Dodgers"", ""title"": ""15%"", ""pennant"": ""21%""}, {""team"": ""Tampa Bay Rays"", ""title"": ""12%"", ""pennant"": ""37%""}], ""champion_pick"": ""Milwaukee Brewers"", ""past_picks"": [{""date"": ""Oct 7"", ""game"": ""MIL @ SD"", ""pick"": ""MIL 56%"", ""correct"": true}, {""date"": ""Oct 7"", ""game"": ""CLE @ CWS"", ""pick"": ""CWS 56%"", ""correct"": false}, {""date"": ""Oct 7"", ""game"": ""TB @ NYY"", ""pick"": ""NYY 56%"", ""correct"": false}, {""date"": ""Oct 8"", ""game"": ""CLE @ CWS"", ""pick"": ""CWS 54%"", ""correct"": false}, {""date"": ""Oct 10"", ""game"": ""CWS @ CLE"", ""pick"": ""CLE 56%"", ""correct"": true}, {""date"": ""Oct 11"", ""game"": ""LAD @ MIL"", ""pick"": ""MIL 57%"", ""correct"": true}, {""date"": ""Oct 12"", ""game"": ""LAD @ MIL"", ""pick"": ""MIL 55%"", ""correct"": true}, {""date"": ""Oct 12"", ""game"": ""CLE @ TB"", ""pick"": ""TB 60%"", ""correct"": false}], ""record"": {""games"": ""12-12"", ""accuracy"": ""50%"", ""log_loss"": ""0.673"", ""series"": ""5 of 7""}, ""upcoming"": [{""date"": ""2026-10-13"", ""game"": ""ALCS Game 2"", ""matchup"": ""Cleveland Guardians at Tampa Bay Rays"", ""model_pick"": ""Tampa Bay Rays"", ""win_probability"": ""51%""}, {""date"": ""2026-10-14"", ""game"": ""NLCS Game 3"", ""matchup"": ""Milwaukee Brewers at Los Angeles Dodgers"", ""model_pick"": ""Los Angeles Dodgers"", ""win_probability"": ""58%""}, {""date"": ""2026-10-15"", ""game"": ""ALCS Game 3"", ""matchup"": ""Tampa Bay Rays at Cleveland Guardians"", ""model_pick"": ""Tampa Bay Rays"", ""win_probability"": ""50%""}, {""date"": ""2026-10-15"", ""game"": ""NLCS Game 4"", ""matchup"": ""Milwaukee Brewers at Los Angeles Dodgers"", ""model_pick"": ""Los Angeles Dodgers"", ""win_probability"": ""55%""}, {""date"": ""2026-10-16"", ""game"": ""ALCS Game 4"", ""matchup"": ""Tampa Bay Rays at Cleveland Guardians"", ""model_pick"": ""Cleveland Guardians"", ""win_probability"": ""51%""}, {""date"": ""2026-10-16"", ""game"": ""NLCS Game 5"", ""matchup"": ""Milwaukee Brewers at Los Angeles Dodgers"", ""model_pick"": ""Milwaukee Brewers"", ""win_probability"": ""50%""}, {""date"": ""2026-10-17"", ""game"": ""ALCS Game 5"", ""matchup"": ""Tampa Bay Rays at Cleveland Guardians"", ""model_pick"": ""Tampa Bay Rays"", ""win_probability"": ""51%""}, {""date"": ""2026-10-18"", ""game"": ""NLCS Game 6"", ""matchup"": ""Los Angeles Dodgers at Milwaukee Brewers"", ""model_pick"": ""Milwaukee Brewers"", ""win_probability"": ""54%""}], ""note"": ""Three slides: title odds, past picks, upcoming games.""}",Y,,5,looks good
+13,dev,game,rejected,,Guardians Steal ALCS Game 1,"We had the Rays at 60%. Cleveland had other plans. Guardians 7, Rays 3 at Tropicana Field, and CLE leads the ALCS 1-0.
+
+Our model missed this one, plain and simple. A 60% favorite loses 4 times in 10, and tonight was one of those nights. That puts us at 12-12 on games (50%) this postseason, with 5 of 7 series picks right.
+
+Chase DeLauter did the damage: 3-for-4 with a homer, a double and a walk. Patrick Bailey added a homer and an RBI, and Hunter Gaddis got the win. Cedric Mullins homered in his only at-bat for Tampa Bay, but Tyler Wells took the loss.
+
+Do the Rays bounce back in Game 2, or is Cleveland taking control of this series?
+
+Follow for daily MLB numbers 📊
+
+#MLB #Baseball #ALCS #Postseason #ClevelandGuardians #TampaBayRays #ChaseDeLauter #PatrickBailey #CedricMullins #Octoberball","{""date"": ""2026-10-12"", ""series"": ""ALCS Game 1"", ""postseason"": true, ""away_team"": ""Cleveland Guardians"", ""away_score"": 7, ""home_team"": ""Tampa Bay Rays"", ""home_score"": 3, ""winner"": ""Cleveland Guardians"", ""loser"": ""Tampa Bay Rays"", ""innings"": 9, ""venue"": ""Tropicana Field"", ""decisions"": {""winner"": ""Hunter Gaddis"", ""loser"": ""Tyler Wells""}, ""top_performers"": [{""name"": ""Chase DeLauter"", ""team"": ""Cleveland Guardians"", ""line"": ""3-4 | HR, 2B, BB""}, {""name"": ""Cedric Mullins"", ""team"": ""Tampa Bay Rays"", ""line"": ""1-1 | HR, RBI, R""}, {""name"": ""Patrick Bailey"", ""team"": ""Cleveland Guardians"", ""line"": ""2-4 | HR, 2 K, RBI""}], ""series_status"": ""CLE leads 1-0"", ""model"": {""picked"": ""Tampa Bay Rays"", ""win_probability"": ""60%"", ""correct"": false}, ""model_record"": {""games"": ""12-12"", ""accuracy"": ""50%"", ""log_loss"": ""0.673"", ""series"": ""5 of 7""}}",Y,,5,looks good
+19,dev,reel_why,rejected,Numbers not found in the stats: 4,Why We Like LA Tonight,"One factor did almost all the work on this pick. ⚾
+
+Brewers at Dodgers: an average home team starts at 53%. The starting pitching matchup pushed our model 4.4 points of win chance toward Los Angeles, landing the Dodgers at 57%.
+
+That's a lean, not a lock. A 57% favorite still loses more than 4 times in 10, and Milwaukee has every chance to flip it.
+
+Does the pitching edge hold up, or do the Brewers steal one in LA?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #Postseason #Dodgers #Brewers #MLBPlayoffs #BrewersVsDodgers #SportsAnalytics #BaseballStats","{""sport"": ""MLB"", ""game"": ""Milwaukee Brewers at Los Angeles Dodgers"", ""start"": ""2026-10-14T19:00:00"", ""model_pick"": ""Los Angeles Dodgers"", ""win_probability"": ""57%"", ""what_moved_it"": [{""factor"": ""Starting pitchers"", ""toward"": ""LAD"", ""amount"": 4.4, ""unit"": ""pts of win chance""}], ""baseline"": ""Average game: home team wins 53%""}",Y,N,3,not a fan of the 4 times out of 10 metric to show how often this could lose
+20,dev,analytics,rejected,Numbers not found in the stats: 20,Giddey's Triple-Double Watch: 16%,"A triple-double happens in about 0.8% of player-games. Our model gives Josh Giddey a 16% shot on Oct 14, about 20 times the usual rate.
+
+In plain words: he fills every column. Points, rebounds and assists all pile up when the ball runs through you, so the model sees a real path to double digits in all three. Next up is Jalen Johnson (ATL) at 7.3%, though he's listed Day-To-Day.
+
+The 40-point watch: Shai Gilgeous-Alexander, Anthony Edwards and Jalen Brunson each sit at 6.7%, against a usual 0.9%. Brunson, Jaylen Brown and Giannis Antetokounmpo are all Day-To-Day, so check status before tip. These are chances, not predictions: even 16% means it most likely won't happen.
+
+Who's your pick to hit one of these tonight? 🏀
+
+Follow for sports, by the numbers 📊
+
+#NBA #Basketball #NBAAnalytics #JoshGiddey #Bulls #TripleDouble #ShaiGilgeousAlexander #AnthonyEdwards #JalenBrunson #JalenJohnson #SportsAnalytics","{""sport"": ""NBA"", ""period"": ""Oct 14"", ""items"": [{""what"": ""Josh Giddey (CHI): Triple-double"", ""chance"": ""16%"", ""usual_rate"": ""0.8%""}, {""what"": ""Jalen Johnson (ATL): Triple-double"", ""chance"": ""7.3%"", ""usual_rate"": ""0.8%"", ""injury_status"": ""Day-To-Day""}, {""what"": ""Jalen Brunson (NY): Scores 40+"", ""chance"": ""6.7%"", ""usual_rate"": ""0.9%"", ""injury_status"": ""Day-To-Day""}, {""what"": ""Shai Gilgeous-Alexander (OKC): Scores 40+"", ""chance"": ""6.7%"", ""usual_rate"": ""0.9%""}, {""what"": ""Anthony Edwards (MIN): Scores 40+"", ""chance"": ""6.7%"", ""usual_rate"": ""0.9%""}, {""what"": ""Giannis Antetokounmpo (MIA): Triple-double"", ""chance"": ""4.8%"", ""usual_rate"": ""0.8%"", ""injury_status"": ""Day-To-Day""}, {""what"": ""Jaylen Brown (PHI): Scores 40+"", ""chance"": ""5.3%"", ""usual_rate"": ""0.9%"", ""injury_status"": ""Day-To-Day""}, {""what"": ""Giannis Antetokounmpo (MIA): Scores 40+"", ""chance"": ""5.3%"", ""usual_rate"": ""0.9%"", ""injury_status"": ""Day-To-Day""}], ""method"": ""Calibrated probabilities from models tested on seasons they never trained on. 'Usual' is how often this happens in a typical game.""}",Y,N,5,everything sounds good here. good stats
+27,dev,reel_stealwatch,rejected,,Steal Watch: NLCS Game 3,"No steals yet through the middle of the 2nd. History says that might not last. 👀
+
+The Brewers ran all season: 162 stolen bases, 5th of 30 in MLB, exactly 1.00 per game. They swiped at least one bag in 90 of 162 games (56%), and 72% of Brewers games featured a steal by either team.
+
+The Dodgers are the opposite story: 72 steals, 28th of 30. They stole a base in just 58 of 162 games (36%), though 67% of their games still saw someone run. These are season frequencies, not a prediction for tonight, but if a bag goes, the smart money is on Milwaukee's legs.
+
+Who swipes the first base tonight, and what inning does it happen?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #NLCS #Postseason #Brewers #Dodgers #StolenBases #BrewersVsDodgers #SportsAnalytics","{""what_this_post_is"": ""A short video posted DURING NLCS Game 3 (Milwaukee Brewers at Los Angeles Dodgers). Nobody has stolen a base yet tonight. It shows how often a stolen base happened in each team's games this regular season, so fans can watch for one. These are season frequencies, not a model's prediction for tonight. Do not mention the current score."", ""stolen_bases_so_far_tonight"": 0, ""as_of"": ""Middle of the 2nd"", ""season_frequencies_2026_regular_season"": [{""what"": ""Brewers games with a steal (either team)"", ""games"": ""116 of 162"", ""percent"": ""72%""}, {""what"": ""Dodgers games with a steal (either team)"", ""games"": ""108 of 162"", ""percent"": ""67%""}, {""what"": ""Games the Brewers stole a base"", ""games"": ""90 of 162"", ""percent"": ""56%""}, {""what"": ""Games the Dodgers stole a base"", ""games"": ""58 of 162"", ""percent"": ""36%""}], ""brewers_stolen_bases_2026"": 162, ""brewers_rank_in_mlb"": ""5th of 30"", ""dodgers_stolen_bases_2026"": 72, ""dodgers_rank_in_mlb"": ""28th of 30"", ""brewers_steals_per_game"": ""1.00""}",Y,,5,good stats
+31,dev,reel_recap,rejected,,October Is Basically a Coin Flip,"Our model's underdogs have won 13 of 30 postseason games. The model expected 13.2. 🎲
+
+That's the honest part: the upsets aren't breaking the model, they're baked in. Our average favorite has been just 56% to win, and the biggest favorite all postseason was 72%. Half of the 30 games were decided by 2 runs or fewer, 9 by exactly 1 run, and road teams have won 14.
+
+Want chaos? White Sox vs. Guardians in the ALDS: the road team won each of the first 4 games and our model's favorite lost all 4, before Cleveland won Game 5 at home, 2-0. Then there's the Yankees managing 1 hit in a 1-0 loss to the Rays in ALDS Game 1. Add 5 shutouts and you get a postseason that's close to random game to game.
+
+What's been the wildest game of this postseason for you?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #MLBPostseason #Postseason #Guardians #WhiteSox #Yankees #Rays #ALDS #Analytics #SportsAnalytics","{""what_this_post_is"": ""A recap of how close and unpredictable the 2026 MLB postseason has been so far (all 30 finished games, Wild Card round through the LCS, through NLCS Game 3 on Oct 14). Show that baseball playoffs are close to random game to game, and be honest that our model expected about this many upsets."", ""games_so_far"": 30, ""won_by_our_models_underdog"": ""13 of 30 (43%)"", ""underdog_wins_our_model_expected"": ""13.2"", ""our_models_average_favorite"": ""56% to win"", ""our_models_biggest_favorite_all_postseason"": ""72%"", ""decided_by_2_runs_or_fewer"": ""15 of 30 (50%)"", ""decided_by_exactly_1_run"": ""9 of 30"", ""won_by_the_road_team"": ""14 of 30"", ""wildest_series"": ""White Sox vs. Guardians, ALDS: the road team won each of the first 4 games and our model's favorite lost all 4 of them, before Cleveland won Game 5 at home, 2-0"", ""strange_box_score"": ""Yankees had 1 hit in a 1-0 loss to the Rays in ALDS Game 1"", ""shutouts"": ""5""}",Y,,5,good use of the stats here
+4,dev,game,published,,Brewers Take 2-0 NLCS Lead,"Milwaukee holds serve again. The Brewers beat the Dodgers 7-4 at American Family Field and lead the NLCS 2-0.
+
+William Contreras did the heavy lifting: 3-for-4 with a homer, a walk and 3 RBI. David Hamilton was a menace on the bases with 2 hits, a HBP, 3 runs scored and 2 steals, and Brice Turang reached four times with a double and 2 walks. JoJo Romero got the win, Aaron Ashby closed it out for the save, and Brock Stewart took the loss.
+
+Our model had Milwaukee as a 55% favorite, and it got this one right. That's close to a coin flip, so we're not taking a victory lap. The model is now 12-11 in these games (52%), with a 0.663 log loss, and 5 of 7 on series.
+
+Can the Dodgers climb out of an 0-2 hole, or is Milwaukee headed to the World Series?
+
+Follow for daily MLB numbers 📊
+
+#MLB #Baseball #NLCS #Postseason #Brewers #Dodgers #WilliamContreras #DavidHamilton #BriceTurang #BoxScoreBrief #Octoberball","{""date"": ""2026-10-12"", ""series"": ""NLCS Game 2"", ""postseason"": true, ""away_team"": ""Los Angeles Dodgers"", ""away_score"": 4, ""home_team"": ""Milwaukee Brewers"", ""home_score"": 7, ""winner"": ""Milwaukee Brewers"", ""loser"": ""Los Angeles Dodgers"", ""innings"": 9, ""venue"": ""American Family Field"", ""decisions"": {""winner"": ""JoJo Romero"", ""loser"": ""Brock Stewart"", ""save"": ""Aaron Ashby""}, ""top_performers"": [{""name"": ""William Contreras"", ""team"": ""Milwaukee Brewers"", ""line"": ""3-4 | HR, BB, 3 RBI""}, {""name"": ""David Hamilton"", ""team"": ""Milwaukee Brewers"", ""line"": ""2-3 | HBP, 3 R, 2 SB""}, {""name"": ""Brice Turang"", ""team"": ""Milwaukee Brewers"", ""line"": ""2-3 | 2B, 2 BB, K""}], ""series_status"": ""MIL leads 2-0"", ""model"": {""picked"": ""Milwaukee Brewers"", ""win_probability"": ""55%"", ""correct"": true}, ""model_record"": {""games"": ""12-11"", ""accuracy"": ""52%"", ""log_loss"": ""0.663"", ""series"": ""5 of 7""}}",Y,,5,good stats
+9,dev,seriespicks,published,,Series Picks: 5 of 7,"Our model is 5 of 7 on playoff series picks so far. Here's every call, hits and misses alike.
+
+The hits: White Sox (51%), Yankees (60%) and Braves (54%) in the Wild Card round, then Cleveland (53%) and Milwaukee (71%) in the Division Series. The misses: the Cubs at 52% fell to San Diego, and the Yankees at 57% lost to Tampa Bay.
+
+Notice how close most of these were. Several picks sat barely above a coin flip, so a 57% favorite going down is exactly the kind of result the numbers say will happen a good chunk of the time. Milwaukee at 71% was our most confident call, and it held.
+
+Which miss surprised you more: Padres over Cubs or Rays over Yankees?
+
+Follow for daily MLB numbers 📊
+
+#MLB #Baseball #MLBPlayoffs #Postseason #TampaBayRays #SanDiegoPadres #MilwaukeeBrewers #NewYorkYankees #ClevelandGuardians #MLBPredictions","{""series_picks"": [{""series"": ""AL Wild Card"", ""model_pick"": ""Chicago White Sox"", ""pick_probability"": ""51%"", ""winner"": ""Chicago White Sox"", ""correct"": true}, {""series"": ""AL Wild Card"", ""model_pick"": ""New York Yankees"", ""pick_probability"": ""60%"", ""winner"": ""New York Yankees"", ""correct"": true}, {""series"": ""NL Wild Card"", ""model_pick"": ""Atlanta Braves"", ""pick_probability"": ""54%"", ""winner"": ""Atlanta Braves"", ""correct"": true}, {""series"": ""NL Wild Card"", ""model_pick"": ""Chicago Cubs"", ""pick_probability"": ""52%"", ""winner"": ""San Diego Padres"", ""correct"": false}, {""series"": ""ALDS"", ""model_pick"": ""New York Yankees"", ""pick_probability"": ""57%"", ""winner"": ""Tampa Bay Rays"", ""correct"": false}, {""series"": ""ALDS"", ""model_pick"": ""Cleveland Guardians"", ""pick_probability"": ""53%"", ""winner"": ""Cleveland Guardians"", ""correct"": true}, {""series"": ""NLDS"", ""model_pick"": ""Milwaukee Brewers"", ""pick_probability"": ""71%"", ""winner"": ""Milwaukee Brewers"", ""correct"": true}], ""record"": ""5 of 7""}",Y,,5,good stats
+14,dev,explainer,published,,How Our Models Actually Think,"Ever wonder what's under the hood? Here's every model, one slide per sport, explained like we're grabbing a coffee.
+
+MLB looks at team quality from runs scored and allowed, recent run differential, and each starter's FIP (a pitcher stat that focuses on what he controls: strikeouts, walks, homers). On 6550 games it never saw while being built, it picked 56% of winners. Baseball is noisy, and we won't pretend otherwise.
+
+NFL weighs EPA per play (how much each snap boosts expected points), success rate, explosive plays, the starting QB's own track record, rest, home field and weather for totals: 65% of winners across 2219 unseen games. NBA rates tonight's actual players, who's missing, rest and home court: 67% across 8913 unseen games.
+
+Swipe through all three. Which sport do you think is hardest to predict?
+
+Follow for daily MLB numbers 📊
+
+#boxscorebrief #SportsAnalytics #MLB #NFL #NBA #Baseball #Football #Basketball #SportsModel #DataScience #MachineLearning","{""models"": [{""sport"": ""MLB"", ""predicts"": ""Win probability and projected score for every game"", ""method"": ""Logistic regression; scores from a Pythagorean split of expected runs"", ""looks_at"": {""Team quality"": ""Pythagorean strength from runs scored and allowed, shrunk to a prior early on"", ""Recent form"": ""Run differential over the last 20 games"", ""Starting pitchers"": ""Each starter's FIP over the past year"", ""Strikeouts minus walks"": ""Each starter's K-BB%""}, ""tested"": ""6550 games never seen in training, 56% of winners""}, {""sport"": ""NFL"", ""predicts"": ""Final margin, total points and win probability for every game"", ""method"": ""Ridge regression on home-minus-away differences, calibrated to probabilities"", ""looks_at"": {""EPA per play"": ""Expected points added on offense and defense, overall, passing and rushing"", ""Success rate"": ""Share of plays that keep the offense on schedule"", ""Explosive plays"": ""Rate of big gains"", ""Quarterback"": ""The starting QB's own track record, not just the team's"", ""Points"": ""Recent scoring margin"", ""Rest & home field"": ""Days of rest and home advantage"", ""Weather (totals)"": ""Dome, wind and cold for the points total""}, ""tested"": ""2219 games never seen in training, 65% of winners""}, {""sport"": ""NBA"", ""predicts"": ""Final margin, total points and win probability for every game"", ""method"": ""Ridge regression on home-minus-away differences, calibrated to probabilities"", ""looks_at"": {""Team efficiency"": ""Points scored and allowed per 100 possessions, recent games weighted more"", ""Team margin"": ""Recent average point differential"", ""Player strength"": ""Tonight's players, rated per minute (box score + on-court +/-) times expected minutes"", ""Who's missing"": ""Value of regular rotation players who are injured, resting or gone"", ""Rest"": ""Days off and back-to-backs for each team"", ""Home court"": ""Home advantage (off on neutral courts)""}, ""tested"": ""8913 games never seen in training, 67% of winners""}]}",Y,,5,good explanation of the data
+18,dev,slate,published,"Numbers not found in the stats: 1, 14",Week 6: Every Game Projected,"Our model's most confident Week 6 pick: the Los Angeles Rams at 83% over Arizona, projected 31.6 to 20.1 behind Matthew Stafford.
+
+The opposite end is Thursday night. Seattle at Denver is a true coin flip: Seahawks 50%, with the projection splitting hairs at DEN 21.8, SEA 21.6. Drew Lock vs Bo Nix could go either way. Pittsburgh at Tampa Bay is close behind, Bucs 51% with Aaron Rodgers facing Jalon Daniels.
+
+Remember, these are probabilities, not locks. Even an 83% favorite loses about 1 time in 6. Swipe for all 14 games with picks, win chances and projected scores. 👉
+
+Which pick do you think our model gets wrong this week?
+
+Follow for sports, by the numbers 📊
+
+#NFL #Football #NFLWeek6 #LosAngelesRams #MatthewStafford #Seahawks #Broncos #BoNix #NFLPredictions #NFLPicks","{""sport"": ""NFL"", ""season"": 2026, ""period"": ""week 6"", ""games"": [{""game"": ""Seattle Seahawks at Denver Broncos"", ""kickoff"": ""2026-10-15T19:15:00"", ""model_pick"": ""Seattle Seahawks"", ""win_probability"": ""50%"", ""projected_score"": ""SEA 21.6, DEN 21.8"", ""quarterbacks"": ""Drew Lock vs Bo Nix""}, {""game"": ""Houston Texans at Jacksonville Jaguars"", ""kickoff"": ""2026-10-18T08:30:00"", ""model_pick"": ""Jacksonville Jaguars"", ""win_probability"": ""64%"", ""projected_score"": ""HOU 20.5, JAX 24.8"", ""quarterbacks"": ""C.J. Stroud vs Trevor Lawrence""}, {""game"": ""Baltimore Ravens at Cleveland Browns"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""Baltimore Ravens"", ""win_probability"": ""66%"", ""projected_score"": ""BAL 25.6, CLE 20.9"", ""quarterbacks"": ""Lamar Jackson vs Deshaun Watson""}, {""game"": ""Carolina Panthers at Philadelphia Eagles"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""Philadelphia Eagles"", ""win_probability"": ""57%"", ""projected_score"": ""CAR 21.6, PHI 24.0"", ""quarterbacks"": ""Bryce Young vs Jalen Hurts""}, {""game"": ""Chicago Bears at Atlanta Falcons"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""Atlanta Falcons"", ""win_probability"": ""61%"", ""projected_score"": ""CHI 21.1, ATL 24.6"", ""quarterbacks"": ""Tyson Bagent vs Michael Penix Jr.""}, {""game"": ""New Orleans Saints at New York Giants"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""New York Giants"", ""win_probability"": ""64%"", ""projected_score"": ""NO 21.0, NYG 25.4"", ""quarterbacks"": ""Tyler Shough vs Jameis Winston""}, {""game"": ""New York Jets at New England Patriots"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""New England Patriots"", ""win_probability"": ""81%"", ""projected_score"": ""NYJ 16.9, NE 27.4"", ""quarterbacks"": ""Geno Smith vs Drake Maye""}, {""game"": ""Pittsburgh Steelers at Tampa Bay Buccaneers"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""Tampa Bay Buccaneers"", ""win_probability"": ""51%"", ""projected_score"": ""PIT 21.9, TB 22.4"", ""quarterbacks"": ""Aaron Rodgers vs Jalon Daniels""}, {""game"": ""Tennessee Titans at Indianapolis Colts"", ""kickoff"": ""2026-10-18T12:00:00"", ""model_pick"": ""Indianapolis Colts"", ""win_probability"": ""78%"", ""projected_score"": ""TEN 17.6, IND 26.9"", ""quarterbacks"": ""Cam Ward vs Daniel Jones""}, {""game"": ""Arizona Cardinals at Los Angeles Rams"", ""kickoff"": ""2026-10-18T15:05:00"", ""model_pick"": ""Los Angeles Rams"", ""win_probability"": ""83%"", ""projected_score"": ""ARI 20.1, LA 31.6"", ""quarterbacks"": ""Jacoby Brissett vs Matthew Stafford""}, {""game"": ""Buffalo Bills at Las Vegas Raiders"", ""kickoff"": ""2026-10-18T15:25:00"", ""model_pick"": ""Buffalo Bills"", ""win_probability"": ""67%"", ""projected_score"": ""BUF 29.5, LV 24.4"", ""quarterbacks"": ""Josh Allen vs Kirk Cousins""}, {""game"": ""Los Angeles Chargers at Kansas City Chiefs"", ""kickoff"": ""2026-10-18T15:25:00"", ""model_pick"": ""Kansas City Chiefs"", ""win_probability"": ""77%"", ""projected_score"": ""LAC 17.8, KC 26.7"", ""quarterbacks"": ""Justin Herbert vs Patrick Mahomes""}, {""game"": ""Dallas Cowboys at Green Bay Packers"", ""kickoff"": ""2026-10-18T19:20:00"", ""model_pick"": ""Green Bay Packe",Y,N,5,yes it is just stating that the chance it loses is 1 in 6 and that there are 14 games. good stats
+24,dev,reel_why,published,,Why Cleveland Gets the Nod,"The pitching matchup tipped this one. Watch the bars move.
+
+Biggest factor: the starting pitchers, worth 3.7 points of win chance toward Cleveland. Team quality, meaning runs scored vs allowed, pulls back 2.9 points toward Tampa Bay. Start from the 53% an average home team wins and you land here.
+
+Our pick: Guardians at 54%. That's close to a coin flip, so the Rays win this one plenty of the time.
+
+Do you trust the arms or the run differential?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #Postseason #ClevelandGuardians #TampaBayRays #Guardians #Rays #BaseballAnalytics #SportsAnalytics","{""sport"": ""MLB"", ""game"": ""Tampa Bay Rays at Cleveland Guardians"", ""start"": ""2026-10-15T12:00:00"", ""model_pick"": ""Cleveland Guardians"", ""win_probability"": ""54%"", ""what_moved_it"": [{""factor"": ""Starting pitchers"", ""toward"": ""CLE"", ""amount"": 3.7, ""unit"": ""pts of win chance""}, {""factor"": ""Team quality (runs scored vs allowed)"", ""toward"": ""TB"", ""amount"": 2.9, ""unit"": ""pts of win chance""}], ""baseline"": ""Average game: home team wins 53%""}",Y,,4,more stats
+29,dev,reel_stealwatch,published,,Steal Watch: ALCS Game 3,"Keep your eyes on first base today. 👀
+
+A steal showed up in 78% of Rays games this season (126 of 162) and 73% of Guardians games (119 of 162). Tampa Bay swiped 164 bags, tied for 2nd in MLB with San Diego. Cleveland's 146 ranked 7th. These are season frequencies, not a model prediction for today.
+
+The ALCS has already seen 4 steals in 2 games: Rays 2, Guardians 1 in Game 1, then Guardians 1, Rays 0 in Game 2. Series tied 1-1, first pitch 12:00 PM CT in Cleveland.
+
+Who swipes the first bag in Game 3: Rays or Guardians?
+
+Follow for sports, by the numbers 📊
+
+#MLB #Baseball #ALCS #Postseason #TampaBayRays #Rays #ClevelandGuardians #Guardians #StolenBases #SportsAnalytics","{""what_this_post_is"": ""A short video posted a little before ALCS Game 3 (Tampa Bay Rays at Cleveland Guardians, 12:00 PM CT today, series tied 1-1). It shows how often a stolen base happened in each team's games this regular season, so fans can watch for one. These are season frequencies, not a model's prediction for today."", ""season_frequencies_2026_regular_season"": [{""what"": ""Rays games with a steal (either team)"", ""games"": ""126 of 162"", ""percent"": ""78%""}, {""what"": ""Guardians games with a steal (either team)"", ""games"": ""119 of 162"", ""percent"": ""73%""}, {""what"": ""Games the Rays stole a base"", ""games"": ""93 of 162"", ""percent"": ""57%""}, {""what"": ""Games the Guardians stole a base"", ""games"": ""84 of 162"", ""percent"": ""52%""}], ""rays_stolen_bases_2026"": 164, ""rays_rank_in_mlb"": ""tied for 2nd of 30 (with San Diego)"", ""guardians_stolen_bases_2026"": 146, ""guardians_rank_in_mlb"": ""7th of 30"", ""mlb_leader"": ""Washington, 178"", ""alcs_so_far"": ""4 stolen bases in 2 games: Game 1 Rays 2, Guardians 1; Game 2 Guardians 1, Rays 0""}",Y,,5,good stats
