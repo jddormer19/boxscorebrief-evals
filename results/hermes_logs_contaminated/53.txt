@@ -1,0 +1,22 @@
+The draft for case 53 is at drafts/53.json and passed every rule check on the first try. Nothing was published.
+
+Headline: Road Hornets Get the Nod
+
+Caption:
+One bar does almost all the work in tonight's Hornets-Nets pick.
+
+The biggest factor: recent point differential, which moves our model 7.0 points toward Charlotte. Team efficiency pulls 0.3 back toward Brooklyn, and tonight's players push 0.3 toward Charlotte. All of that outweighs the usual home edge (an average game: home team by 2.3).
+
+The pick: Hornets at 66%. Brooklyn still wins this one about a third of the time.
+
+Should recent form carry that much weight, or do the Nets hold serve at home?
+
+Hashtags: NBA, Basketball, CharlotteHornets, BrooklynNets, Hornets, Nets, NBAPicks, SportsAnalytics
+
+Checks: none failed on the first draft, and none fail now. No revisions were needed.
+
+Two things to know:
+- This case's gold caption breaks rule 28 in prompts/v2.txt. It says the 7.0 is "how much the Hornets have been outscoring opponents lately." That number is how far the factor moved our model's prediction, not a real scoring margin. You may want to fix that label. Its "1 in 3" is also what the numbers check flags; I wrote "about a third" instead.
+- The skill's step-1 command was blocked in this session because it runs a Python one-liner. I read the case from data/cases.jsonl directly instead, so the result is the same.
+
+session_id: 20261021_160044_d26df6

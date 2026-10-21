@@ -1,0 +1,20 @@
+Here's the case 49 post (NFL Week 7 slate). It passed every check on the first draft, so I didn't need any revisions.
+
+Headline: Week 7: Vikings Lead the Board
+
+Caption:
+Week 7 has one clear standout. Our model's most confident pick is the Minnesota Vikings over the Indianapolis Colts at 71%, Kyler Murray vs Daniel Jones, projected MIN 25.3, IND 18.5. Confident, not certain: Indianapolis wins this about 3 times in 10.
+
+The matchup to watch is Kansas City at Seattle: Patrick Mahomes vs Drew Lock, and the model only barely leans Seattle at 51% (projected SEA 22.6, KC 22.2). That's a coin flip. Dallas at Philadelphia (51% Cowboys) and New England at Chicago (50%, Drake Maye vs Caleb Williams) are just as tight.
+
+Swipe for every Week 7 game with the model's pick, win probability and projected score.
+
+Which coin flip do you think the model gets wrong?
+
+Hashtags: NFL, Football, NFLWeek7, MinnesotaVikings, KansasCityChiefs, SeattleSeahawks, PatrickMahomes, KylerMurray, NFLPredictions
+
+Checks: nothing failed on the first draft (numbers, length, question, headline, emojis and betting all passed), and nothing fails now. "About 3 times in 10" comes from the facts: 100% minus 71% is 29%. I put it as Indianapolis's chance rather than as the Vikings losing, which is what prompts/v2.txt asks for. The gold caption puts it as the favorite losing.
+
+A drafts/49.json already existed from an earlier run. I changed only its headline and caption, and its facts match the case exactly. A copy of the old draft is at /home/jackson19/.hermes/cache/scratch/49.prev.json. Nothing was published.
+
+session_id: 20261021_155755_354579

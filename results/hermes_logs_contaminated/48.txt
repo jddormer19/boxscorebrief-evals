@@ -1,0 +1,20 @@
+Headline: Milwaukee Rockets From 26% to 67%
+
+Caption:
+Three weeks, one title race, totally redrawn.
+
+On Sep 27 our model gave MIL a 26% chance to win the World Series. Now it's 67% (peak: 69%), the biggest climb on the board at +41 points. TB nearly matched the story, going from 10% to 33%.
+
+LAD took the hardest fall: 24% at the start, as high as 37%, now 0%. Our model simulates the rest of the season and the playoffs thousands of times each day, so every swing is a reaction to real results. And 67% isn't a lock; TB wins this about 1 time in 3.
+
+Bigger story: Milwaukee's climb or the Dodgers' drop?
+
+Hashtags: MLB, Baseball, WorldSeries, MLBPlayoffs, Brewers, Rays, Dodgers, Guardians, Yankees
+
+The draft is saved at /home/jackson19/boxscorebrief-evals/drafts/48.json.
+
+Checks: only "numbers" failed on the first draft, because 41 isn't in the facts. I kept it unrevised: 41 is 67 minus 26, which is simple math from the facts and counts as a false alarm under the skill's rules. That means the checker still reports "numbers" as failed. I worked out the change for every team before picking the riser and faller: MIL +41, TB +23, LAD -24, NYY -10, CLE -8.
+
+One caveat: case 48 is in the test split, and its gold caption showed up when I read the case file. I wrote my own wording, but this post was written after seeing the reference answer, so it isn't a clean eval sample.
+
+session_id: 20261021_155725_626fda

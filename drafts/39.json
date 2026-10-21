@@ -1,0 +1,18 @@
+{
+  "headline": "Rays Close Out the ALCS",
+  "caption": "The Tampa Bay Rays are ALCS champions, finishing off the Cleveland Guardians 4-2.\n\nOur model picked Tampa Bay before the series with a 56% chance, so this one goes down as a hit. It projected a 4-3 series, and the Rays needed one fewer game than that. A 56% pick is close to a coin flip, which makes calling it right a little sweeter.\n\nThat puts the model at 7 of 9 on series picks so far this postseason.\n\nDid you see the Rays winning this one, or were you riding with Cleveland?",
+  "hashtags": ["MLB", "Baseball", "Postseason", "ALCS", "TampaBayRays", "Rays", "ClevelandGuardians", "Guardians"],
+  "facts": {
+    "series": "ALCS",
+    "winner": "Tampa Bay Rays",
+    "loser": "Cleveland Guardians",
+    "result": "4-2",
+    "model_pick": {
+      "team": "Tampa Bay Rays",
+      "probability": "56%",
+      "predicted_score": "4-3",
+      "correct": true
+    },
+    "series_picks_so_far": "7 of 9"
+  }
+}

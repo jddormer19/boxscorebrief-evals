@@ -1,0 +1,21 @@
+Draft for case 51 is written to /home/jackson19/boxscorebrief-evals/drafts/51.json. It passed every check on the first try.
+
+Headline: Every Bar Points to Houston
+
+Caption:
+Three factors, one direction. Watch where they all go.
+
+The biggest push is tonight's players: who is actually suiting up moves our model 6.0 points toward Houston. Recent point differential adds 4.2 more, and team efficiency nudges in another 0.2. Stack that on the average-game baseline (home team by 2.3) and the Rockets come out clear favorites.
+
+Model pick: Houston Rockets, 85% to win. Strong, not a lock. Dallas still takes this one about 15 times in 100.
+
+Does Dallas find a way, or does Houston make the model look smart?
+
+Checks: none failed on the first draft, and none fail now.
+
+- The numbers 15 and 100 aren't in the facts. They're just 100 − 85%, and I used them to show Dallas's chance in positive terms, as prompt v2 asks. The checker didn't flag them.
+- The skill's python -c command for reading the case was blocked in this mode, so I read the case straight from data/cases.jsonl (line 50) instead.
+
+Nothing was published.
+
+session_id: 20261021_155941_c66d96

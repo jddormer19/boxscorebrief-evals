@@ -1,0 +1,6 @@
+{
+  "headline": "Every Bar Points to Toronto",
+  "caption": "Three factors, one direction: all of them lean Raptors.\n\nThe biggest push is tonight's players. Who's actually suiting up moves our model 4.1 points toward Toronto. Recent point differential adds 3.9 more, and team efficiency nudges in another 0.3. That all sits on top of the baseline, where the average game has the home team by 2.3.\n\nAdd it up and our model makes Toronto an 81% pick. Strong, not a lock: Chicago wins this one about 1 time in 5.\n\nDo the Bulls pull it off tonight?",
+  "hashtags": ["NBA", "Basketball", "TorontoRaptors", "ChicagoBulls", "Raptors", "Bulls", "NBAPredictions", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "game": "Chicago Bulls at Toronto Raptors", "start": "2026-10-21T18:30:00", "model_pick": "Toronto Raptors", "win_probability": "81%", "what_moved_it": [{"factor": "Tonight's players", "toward": "TOR", "amount": 4.1, "unit": "pts"}, {"factor": "Recent point differential", "toward": "TOR", "amount": 3.9, "unit": "pts"}, {"factor": "Team efficiency", "toward": "TOR", "amount": 0.3, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+}

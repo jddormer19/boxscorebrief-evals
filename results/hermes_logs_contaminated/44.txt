@@ -1,0 +1,18 @@
+The draft is at /home/jackson19/boxscorebrief-evals/drafts/44.json. It took one revision; the only check still failing is a false alarm.
+
+Headline: Why Our Model Likes Detroit
+
+Caption:
+One factor is doing most of the work in Celtics at Pistons 🏀
+
+That factor is team efficiency: how many points each team scores and allows per trip down the floor. It moves our model 0.5 pts toward Detroit. Tonight's players add 0.1 more for DET, and Boston's recent point differential pulls 0.1 back their way. All of that sits on a baseline where the average home team is favored by 2.3.
+
+The pick: Detroit Pistons, 59%. A lean, not a lock. Boston wins this one 41% of the time.
+
+Does efficiency carry Detroit, or do the Celtics steal one on the road?
+
+Checks: the first draft failed "numbers" (41) and "question". The question check failed because the emoji came after the "?", so I moved it to the hook line. "numbers" still flags 41, and I kept it on purpose: it's 100 − 59%, which is simple math from the facts.
+
+I wrote the caption myself rather than starting from the case's sample caption, since case 44 is in the test split.
+
+session_id: 20261021_155508_d067fa

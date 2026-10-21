@@ -1,0 +1,20 @@
+I wrote the draft for case 39 and saved it to /home/jackson19/boxscorebrief-evals/drafts/39.json. It passed every rule check on the first try.
+
+Headline: Rays Close Out the ALCS
+
+Caption:
+The Tampa Bay Rays are ALCS champions, finishing off the Cleveland Guardians 4-2.
+
+Our model picked Tampa Bay before the series with a 56% chance, so this one goes down as a hit. It projected a 4-3 series, and the Rays needed one fewer game than that. A 56% pick is close to a coin flip, which makes calling it right a little sweeter.
+
+That puts the model at 7 of 9 on series picks so far this postseason.
+
+Did you see the Rays winning this one, or were you riding with Cleveland?
+
+Hashtags: MLB, Baseball, Postseason, ALCS, TampaBayRays, Rays, ClevelandGuardians, Guardians
+
+Checks: none failed on the first draft, and none fail now.
+
+One thing came up while I was working. The skill's step-1 command, which looks up the case, was blocked because this session can't approve scripts. I found the case with a file search instead and got the same facts.
+
+session_id: 20261021_155200_f6ae0e
