@@ -1,0 +1,6 @@
+{
+  "headline": "Why the Knicks Are 74%",
+  "caption": "One bar decides this one. Watch it grow.\n\nOur model starts every NBA game at its baseline: the home team by 2.3. For 76ers at Knicks, the biggest factor is recent point differential, meaning how much each team has been outscoring opponents lately. It pushed our model's prediction 5.0 points further toward New York.\n\nAdd it up and the pick is the Knicks at 74%. That's a strong lean, not a lock, and Philly has a real shot to flip it.\n\nDoes one factor tell you enough, or is the model missing something in this matchup?",
+  "hashtags": ["NBA", "Basketball", "Knicks", "76ers", "NewYorkKnicks", "Sixers", "NBAPicks", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "game": "Philadelphia 76ers at New York Knicks", "start": "2026-10-20T18:00:00", "model_pick": "New York Knicks", "win_probability": "74%", "what_moved_it": [{"factor": "Recent point differential", "toward": "NY", "amount": 5.0, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+}

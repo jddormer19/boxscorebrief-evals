@@ -1,0 +1,125 @@
+{
+  "headline": "Week 7: Vikings Lead the Board",
+  "caption": "Week 7 has one clear standout. Our model's most confident pick is the Minnesota Vikings over the Indianapolis Colts at 71%, Kyler Murray vs Daniel Jones, projected MIN 25.3, IND 18.5. Confident, not certain: Indianapolis wins this about 3 times in 10.\n\nThe matchup to watch is Kansas City at Seattle: Patrick Mahomes vs Drew Lock, and the model only barely leans Seattle at 51% (projected SEA 22.6, KC 22.2). That's a coin flip. Dallas at Philadelphia (51% Cowboys) and New England at Chicago (50%, Drake Maye vs Caleb Williams) are just as tight.\n\nSwipe for every Week 7 game with the model's pick, win probability and projected score.\n\nWhich coin flip do you think the model gets wrong?",
+  "hashtags": ["NFL", "Football", "NFLWeek7", "MinnesotaVikings", "KansasCityChiefs", "SeattleSeahawks", "PatrickMahomes", "KylerMurray", "NFLPredictions"],
+  "facts": {
+    "sport": "NFL",
+    "season": 2026,
+    "period": "week 7",
+    "games": [
+      {
+        "game": "New England Patriots at Chicago Bears",
+        "kickoff": "2026-10-22T19:15:00",
+        "model_pick": "New England Patriots",
+        "win_probability": "50%",
+        "projected_score": "NE 23.9, CHI 24.0",
+        "quarterbacks": "Drake Maye vs Caleb Williams"
+      },
+      {
+        "game": "Pittsburgh Steelers at New Orleans Saints",
+        "kickoff": "2026-10-25T08:30:00",
+        "model_pick": "Pittsburgh Steelers",
+        "win_probability": "62%",
+        "projected_score": "PIT 25.3, NO 21.9",
+        "quarterbacks": "Aaron Rodgers vs Tyler Shough"
+      },
+      {
+        "game": "Cincinnati Bengals at Baltimore Ravens",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "Cincinnati Bengals",
+        "win_probability": "57%",
+        "projected_score": "CIN 25.4, BAL 23.5",
+        "quarterbacks": "Joe Burrow vs Tyler Huntley"
+      },
+      {
+        "game": "Cleveland Browns at Tennessee Titans",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "Cleveland Browns",
+        "win_probability": "56%",
+        "projected_score": "CLE 20.4, TEN 18.7",
+        "quarterbacks": "Deshaun Watson vs Cam Ward"
+      },
+      {
+        "game": "Indianapolis Colts at Minnesota Vikings",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "Minnesota Vikings",
+        "win_probability": "71%",
+        "projected_score": "IND 18.5, MIN 25.3",
+        "quarterbacks": "Daniel Jones vs Kyler Murray"
+      },
+      {
+        "game": "Miami Dolphins at New York Jets",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "New York Jets",
+        "win_probability": "64%",
+        "projected_score": "MIA 19.3, NYJ 23.7",
+        "quarterbacks": "Malik Willis vs Geno Smith"
+      },
+      {
+        "game": "New York Giants at Houston Texans",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "Houston Texans",
+        "win_probability": "68%",
+        "projected_score": "NYG 19.8, HOU 25.6",
+        "quarterbacks": "Jameis Winston vs C.J. Stroud"
+      },
+      {
+        "game": "San Francisco 49ers at Atlanta Falcons",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "San Francisco 49ers",
+        "win_probability": "67%",
+        "projected_score": "SF 27.2, ATL 22.3",
+        "quarterbacks": "Brock Purdy vs Michael Penix Jr."
+      },
+      {
+        "game": "Tampa Bay Buccaneers at Carolina Panthers",
+        "kickoff": "2026-10-25T12:00:00",
+        "model_pick": "Carolina Panthers",
+        "win_probability": "66%",
+        "projected_score": "TB 19.7, CAR 24.7",
+        "quarterbacks": "Jalon Daniels vs Bryce Young"
+      },
+      {
+        "game": "Denver Broncos at Arizona Cardinals",
+        "kickoff": "2026-10-25T15:05:00",
+        "model_pick": "Denver Broncos",
+        "win_probability": "64%",
+        "projected_score": "DEN 24.7, ARI 20.8",
+        "quarterbacks": "Bo Nix vs Jacoby Brissett"
+      },
+      {
+        "game": "Green Bay Packers at Detroit Lions",
+        "kickoff": "2026-10-25T15:25:00",
+        "model_pick": "Detroit Lions",
+        "win_probability": "66%",
+        "projected_score": "GB 24.6, DET 29.7",
+        "quarterbacks": "Jordan Love vs Jared Goff"
+      },
+      {
+        "game": "Los Angeles Rams at Las Vegas Raiders",
+        "kickoff": "2026-10-25T15:25:00",
+        "model_pick": "Los Angeles Rams",
+        "win_probability": "60%",
+        "projected_score": "LA 26.6, LV 23.8",
+        "quarterbacks": "Matthew Stafford vs Kirk Cousins"
+      },
+      {
+        "game": "Kansas City Chiefs at Seattle Seahawks",
+        "kickoff": "2026-10-25T19:20:00",
+        "model_pick": "Seattle Seahawks",
+        "win_probability": "51%",
+        "projected_score": "KC 22.2, SEA 22.6",
+        "quarterbacks": "Patrick Mahomes vs Drew Lock"
+      },
+      {
+        "game": "Dallas Cowboys at Philadelphia Eagles",
+        "kickoff": "2026-10-26T19:15:00",
+        "model_pick": "Dallas Cowboys",
+        "win_probability": "51%",
+        "projected_score": "DAL 24.7, PHI 24.6",
+        "quarterbacks": "Dak Prescott vs Jalen Hurts"
+      }
+    ],
+    "most_confident": "Minnesota Vikings 71%"
+  }
+}

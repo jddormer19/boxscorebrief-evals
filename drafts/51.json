@@ -1,0 +1,6 @@
+{
+  "headline": "Every Bar Points to Houston",
+  "caption": "Three factors, one direction. Watch where they all go.\n\nThe biggest push is tonight's players: who is actually suiting up moves our model 6.0 points toward Houston. Recent point differential adds 4.2 more, and team efficiency nudges in another 0.2. Stack that on the average-game baseline (home team by 2.3) and the Rockets come out clear favorites.\n\nModel pick: Houston Rockets, 85% to win. Strong, not a lock. Dallas still takes this one about 15 times in 100.\n\nDoes Dallas find a way, or does Houston make the model look smart?",
+  "hashtags": ["NBA", "Basketball", "HoustonRockets", "DallasMavericks", "Rockets", "Mavericks", "NBAPredictions", "SportsAnalytics"],
+  "facts": {"sport": "NBA", "game": "Dallas Mavericks at Houston Rockets", "start": "2026-10-21T19:30:00", "model_pick": "Houston Rockets", "win_probability": "85%", "what_moved_it": [{"factor": "Tonight's players", "toward": "HOU", "amount": 6.0, "unit": "pts"}, {"factor": "Recent point differential", "toward": "HOU", "amount": 4.2, "unit": "pts"}, {"factor": "Team efficiency", "toward": "HOU", "amount": 0.2, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+}

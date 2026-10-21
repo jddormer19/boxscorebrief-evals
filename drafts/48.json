@@ -1,0 +1,6 @@
+{
+  "headline": "Milwaukee Rockets From 26% to 67%",
+  "caption": "Three weeks, one title race, totally redrawn.\n\nOn Sep 27 our model gave MIL a 26% chance to win the World Series. Now it's 67% (peak: 69%), the biggest climb on the board at +41 points. TB nearly matched the story, going from 10% to 33%.\n\nLAD took the hardest fall: 24% at the start, as high as 37%, now 0%. Our model simulates the rest of the season and the playoffs thousands of times each day, so every swing is a reaction to real results. And 67% isn't a lock; TB wins this about 1 time in 3.\n\nBigger story: Milwaukee's climb or the Dodgers' drop?",
+  "hashtags": ["MLB", "Baseball", "WorldSeries", "MLBPlayoffs", "Brewers", "Rays", "Dodgers", "Guardians", "Yankees"],
+  "facts": {"sport": "MLB", "prize": "World Series", "from": "Sep 27", "to": "Oct 20", "teams": [{"team": "MIL", "now": "67%", "start": "26%", "peak": "69%"}, {"team": "TB", "now": "33%", "start": "10%", "peak": "33%"}, {"team": "LAD", "now": "0%", "start": "24%", "peak": "37%"}, {"team": "CLE", "now": "0%", "start": "8%", "peak": "20%"}, {"team": "NYY", "now": "0%", "start": "10%", "peak": "17%"}], "method": "Our model simulates the rest of the season and the playoffs thousands of times each day."}
+}

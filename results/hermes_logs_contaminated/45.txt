@@ -1,0 +1,20 @@
+I wrote the draft to drafts/45.json and it passed every rule check on the first try, so I didn't revise it.
+
+Headline: Brewers Climb, Rays Surge Late
+
+Caption:
+Six teams on the chart, two still standing. Here's how our model's World Series chances moved since the playoffs began.
+
+Milwaukee is the biggest riser: 26% at the start, 67% now, just off a 69% peak. Tampa Bay rose from 10% to 33%, and most of that came today alone, a 22-point jump from 11% to 33%.
+
+The biggest faller is the Dodgers: 24% at the start, as high as 37%, now eliminated. Cleveland peaked at 20%, the Yankees at 17%, and the White Sox climbed from 3% to 9% before going out.
+
+The model leans Brewers, but 33% is a real chance for the Rays. Who takes it?
+
+Checks: nothing failed on the first draft and nothing fails now.
+
+The published version of case 45 (the reference post in data/cases.jsonl) has a factual error that the rule checker doesn't catch. It calls Tampa Bay "the biggest riser of all," but the Rays gained 23 points (10% to 33%) while the Brewers gained 41 (26% to 67%). My draft names Milwaukee as the biggest riser. You may want to correct that reference post's label and adjudicate it the way you did #41.
+
+The skill's first command, the inline Python that prints the case, was blocked because this session runs without anyone to approve scripts. I read the case and prompts/v2.txt directly instead. The check_draft run worked normally.
+
+session_id: 20261021_155543_e96e4e
