@@ -1,0 +1,6 @@
+{
+  "headline": "Milwaukee's 41-Point Climb",
+  "caption": "Watch the World Series race redraw itself from Sep 27 to Oct 20.\n\nMIL started at 26% and now sits at 67%, topping out at 69% along the way. That +41 is the biggest rise on the board. TB is the other riser, from 10% to 33%.\n\nThe hardest fall belongs to LAD: 24% at the start, as high as 37%, and now 0%. CLE (peak 20%) and NYY (peak 17%) also hit 0%. Our model simulates the rest of the season and the playoffs thousands of times each day, so the line moves with every result. 67% is not a lock: TB takes the title about 1 time in 3.\n\nWhich swing surprised you most?",
+  "hashtags": ["MLB", "Baseball", "WorldSeries", "MLBPostseason", "Brewers", "Rays", "Dodgers", "Guardians", "Yankees"],
+  "facts": {"sport": "MLB", "prize": "World Series", "from": "Sep 27", "to": "Oct 20", "teams": [{"team": "MIL", "now": "67%", "start": "26%", "peak": "69%"}, {"team": "TB", "now": "33%", "start": "10%", "peak": "33%"}, {"team": "LAD", "now": "0%", "start": "24%", "peak": "37%"}, {"team": "CLE", "now": "0%", "start": "8%", "peak": "20%"}, {"team": "NYY", "now": "0%", "start": "10%", "peak": "17%"}], "method": "Our model simulates the rest of the season and the playoffs thousands of times each day."}
+}

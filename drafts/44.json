@@ -1,6 +1,18 @@
 {
-  "headline": "Why Our Model Likes Detroit",
-  "caption": "One factor is doing most of the work in Celtics at Pistons \ud83c\udfc0\n\nThat factor is team efficiency: how many points each team scores and allows per trip down the floor. It moves our model 0.5 pts toward Detroit. Tonight's players add 0.1 more for DET, and Boston's recent point differential pulls 0.1 back their way. All of that sits on a baseline where the average home team is favored by 2.3.\n\nThe pick: Detroit Pistons, 59%. A lean, not a lock. Boston wins this one 41% of the time.\n\nDoes efficiency carry Detroit, or do the Celtics steal one on the road?",
-  "hashtags": ["NBA", "Basketball", "DetroitPistons", "BostonCeltics", "Pistons", "Celtics", "NBAPredictions", "SportsAnalytics"],
-  "facts": {"sport": "NBA", "game": "Boston Celtics at Detroit Pistons", "start": "2026-10-20T14:00:00", "model_pick": "Detroit Pistons", "win_probability": "59%", "what_moved_it": [{"factor": "Team efficiency", "toward": "DET", "amount": 0.5, "unit": "pts"}, {"factor": "Recent point differential", "toward": "BOS", "amount": 0.1, "unit": "pts"}, {"factor": "Tonight's players", "toward": "DET", "amount": 0.1, "unit": "pts"}], "baseline": "Average game: home team by 2.3"}
+  "headline": "Why the model picks Detroit",
+  "caption": "Celtics at Pistons, and our model is leaning Detroit. Here's why.\n\nThe biggest push came from team efficiency, which moved our prediction 0.5 points toward the Pistons. Recent point differential nudged it 0.1 back toward Boston, and tonight's players added 0.1 for Detroit.\n\nThe result: Detroit Pistons at 59%. That's a lean, not a lock. Boston still wins this about 4 times in 10.\n\nDoes efficiency carry the Pistons tonight, or do the Celtics flip it?",
+  "hashtags": ["NBA", "Basketball", "DetroitPistons", "BostonCeltics", "Pistons", "Celtics", "NBAPicks", "SportsAnalytics"],
+  "facts": {
+    "sport": "NBA",
+    "game": "Boston Celtics at Detroit Pistons",
+    "start": "2026-10-20T14:00:00",
+    "model_pick": "Detroit Pistons",
+    "win_probability": "59%",
+    "what_moved_it": [
+      {"factor": "Team efficiency", "toward": "DET", "amount": 0.5, "unit": "pts"},
+      {"factor": "Recent point differential", "toward": "BOS", "amount": 0.1, "unit": "pts"},
+      {"factor": "Tonight's players", "toward": "DET", "amount": 0.1, "unit": "pts"}
+    ],
+    "baseline": "Average game: home team by 2.3"
+  }
 }

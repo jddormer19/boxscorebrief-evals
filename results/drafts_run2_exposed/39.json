@@ -1,0 +1,18 @@
+{
+  "headline": "Rays Take the ALCS",
+  "caption": "The Tampa Bay Rays win the ALCS, taking down the Cleveland Guardians 4-2.\n\nOur model picked Tampa Bay before the series at 56%, so this was no lock. Cleveland had a real shot. We projected a 4-3 series and the Rays finished it a game early, close but not exact.\n\nThat makes our series picks 7 of 9 so far this postseason, hits and misses alike.\n\nDid you see the Rays winning this one, or were you on Cleveland?",
+  "hashtags": ["MLB", "Baseball", "ALCS", "Postseason", "TampaBayRays", "Rays", "ClevelandGuardians", "Guardians"],
+  "facts": {
+    "series": "ALCS",
+    "winner": "Tampa Bay Rays",
+    "loser": "Cleveland Guardians",
+    "result": "4-2",
+    "model_pick": {
+      "team": "Tampa Bay Rays",
+      "probability": "56%",
+      "predicted_score": "4-3",
+      "correct": true
+    },
+    "series_picks_so_far": "7 of 9"
+  }
+}

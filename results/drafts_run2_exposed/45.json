@@ -1,0 +1,18 @@
+{
+  "headline": "Two teams left standing",
+  "caption": "Six contenders started the playoffs on Sept. 27. Two are still alive, and our model now has the Milwaukee Brewers at 67% to win the World Series.\n\nMilwaukee is the biggest riser, up 41 points from 26% (peaking at 69%). Tampa Bay climbed from 10% to 33%, and 22 of those points came today alone, jumping from 11%.\n\nThe biggest fall belongs to the Los Angeles Dodgers: 24% at the start, as high as 37%, now out. Cleveland peaked at 20%, the Yankees at 17% and the White Sox at 9% before their runs ended.\n\nBrewers at 67%, Rays at 33%. Does Tampa Bay have one more climb in it?",
+  "hashtags": ["MLB", "Baseball", "Postseason", "WorldSeries", "Brewers", "Rays", "Dodgers", "Guardians", "Yankees", "WhiteSox"],
+  "facts": {
+    "chart": "Chance to win the World Series, per our model, since the start of the playoffs",
+    "since": "2026-09-27",
+    "teams": [
+      {"team": "Tampa Bay Rays", "at_start": "10%", "now": "33%", "peak": "33%", "eliminated": false},
+      {"team": "Cleveland Guardians", "at_start": "8%", "now": "0%", "peak": "20%", "eliminated": true},
+      {"team": "New York Yankees", "at_start": "10%", "now": "0%", "peak": "17%", "eliminated": true},
+      {"team": "Chicago White Sox", "at_start": "3%", "now": "0%", "peak": "9%", "eliminated": true},
+      {"team": "Milwaukee Brewers", "at_start": "26%", "now": "67%", "peak": "69%", "eliminated": false},
+      {"team": "Los Angeles Dodgers", "at_start": "24%", "now": "0%", "peak": "37%", "eliminated": true}
+    ],
+    "biggest_move_today": {"team": "Tampa Bay Rays", "from": "11%", "to": "33%", "change_points": 22}
+  }
+}

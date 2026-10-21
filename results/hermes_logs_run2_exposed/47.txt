@@ -1,0 +1,20 @@
+The draft for case 47 is written to drafts/47.json and passes all the checks.
+
+Headline: OKC Climbs, SA Cools Off
+
+Caption:
+Watch the NBA title race redraw itself in one week.
+
+OKC is the biggest riser: 25% on Oct 13 to 27% on Oct 20, ending the week at its peak. SA spiked to 22% then fell back to 17%, below its 19% start. NY dipped from 14% to 12%, HOU ticked up from 8% to 9%, and DET held at 6%.
+
+Our model simulates the rest of the season and the playoffs thousands of times each day. These are chances, not sure things.
+
+Is OKC pulling away, or does SA get back to 22%?
+
+Hashtags: NBA, Basketball, NBATitleRace, OKCThunder, SanAntonioSpurs, Knicks, Rockets, Pistons, SportsAnalytics
+
+Checks: none failed on the first draft and none fail now. I made one change anyway. The first headline said "Thunder" and "Spurs", but the facts only list OKC and SA, and the prompt allows only names from the facts. The full team names are still in the hashtags, because the prompt asks for team names there.
+
+Contamination warning: drafts/47.json already had a draft committed from the contaminated run 1 (commit 970723e). I read it before overwriting, so it may have influenced this version. It shares the same angle (OKC rising, SA spiking then falling) and the same closing question. If you need a clean, uninfluenced sample for the eval, regenerate this case in a fresh session where the old draft has been moved aside first. The old version is still in git.
+
+session_id: 20261021_163130_bfe157

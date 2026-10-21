@@ -1,0 +1,16 @@
+Headline: Luka's 40-Point Night Brewing?
+
+Caption:
+Luka Doncic scoring 40+ tonight? Our model puts it at 20%. In a typical game, a 40-point night happens 0.9% of the time. That's roughly 22 times the usual rate, the most unusual number on the board.
+
+Josh Giddey is close behind: a 16% chance at a triple-double vs a usual 0.8%. Jalen Johnson (6.6%), Luka (5.2%), Giannis Antetokounmpo (4.8%) and Domantas Sabonis (4.3%) also sit well above normal for a triple-double. Anthony Edwards (6.7%) and Giannis (5.3%) join the 40-point watch.
+
+These are chances, not calls. Even at 20%, Luka most likely finishes under 40. The model is calibrated on seasons it never trained on, so a 20% should come true about 1 time in 5.
+
+Which hits tonight: Luka's 40 or Giddey's triple-double?
+
+Checks: The first draft failed only "numbers", which flagged the 22. I didn't change it because it's a false alarm: 20% divided by the usual 0.9% is about 22.2, so it's simple math from the facts. That flag is still the only failing check. No revisions were needed.
+
+There was already a draft for case 54 in drafts/54.json, committed in 970723e (the run you marked as contaminated). I didn't use it, and I've now overwritten it. Run `git diff drafts/54.json` if you want to compare the two. Nothing was published.
+
+session_id: 20261021_163727_5ac4e1

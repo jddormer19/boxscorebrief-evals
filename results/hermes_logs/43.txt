@@ -1,0 +1,20 @@
+I wrote the draft for case 43 and saved it to drafts/43.json. It passed every check on the first try, so I didn't revise it. Nothing was published.
+
+Headline: Spurs by a whisker
+
+Caption:
+The only bar in this one points the other way.
+
+Tonight's players pushed our model 1.6 points toward the Thunder. But the starting point is a baseline where the average home team is favored by 2.3, and that home edge is still enough to keep San Antonio in front.
+
+The result: Spurs at 52% to beat Oklahoma City. That's close to a coin flip, and the Thunder win this about 48 times in 100.
+
+Does home court hold up against OKC's lineup tonight?
+
+Hashtags: NBA, Basketball, Spurs, Thunder, SanAntonioSpurs, OKCThunder, NBAPicks, SportsAnalytics
+
+The "48 times in 100" isn't in the facts. I worked it out as 100 minus the 52% win chance, which the prompt's rule on giving the other team's chance allows.
+
+Checks: none failed on the first draft, and none fail now.
+
+session_id: 20261021_164251_ad32e8

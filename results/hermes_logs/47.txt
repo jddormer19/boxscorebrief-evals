@@ -1,0 +1,20 @@
+I saved the draft to drafts/47.json. It passed every check on the first try, so I didn't revise it.
+
+Headline: OKC Climbs, San Antonio Slips
+
+Caption:
+One week, and the NBA title race already moved.
+
+OKC is the biggest riser, going from 25% to 27% between Oct 13 and Oct 20, and they're sitting at their peak. Houston also ticked up, 8% to 9%.
+
+San Antonio is the story going the other way. The Spurs climbed as high as 22% before sliding to 17%, down from 19% at the start. New York dipped from 14% to 12%. Detroit held steady at 6%.
+
+Our model simulates the rest of the season and the playoffs thousands of times each day. Who climbs the chart next week?
+
+Hashtags: NBA, Basketball, NBATitle, OKCThunder, Thunder, Spurs, Knicks, Rockets, Pistons, boxscorebrief
+
+I checked each team's change from start to now before calling a riser: OKC +2, Houston +1, Detroit 0, San Antonio -2, New York -2. San Antonio and New York fell by the same amount. I led with San Antonio because it also dropped 5 points from its 22% peak.
+
+Checks: none failed on the first draft, and none fail now.
+
+session_id: 20261021_164509_35c8a1

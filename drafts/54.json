@@ -1,6 +1,20 @@
 {
-  "headline": "Luka 40 Tonight? 1 in 5",
-  "caption": "A 40-point game shows up in about 0.9% of games. Our model gives Luka Doncic a 20% shot at one tonight.\n\nThat's the most unusual number on the Oct 21 board: more than 20 times the usual rate. Josh Giddey is right behind him, with a 16% triple-double chance against a usual 0.8%.\n\nThe rest of the list: Anthony Edwards 40+ at 6.7%, Jalen Johnson triple-double 6.6%, Giannis 40+ 5.3%, Luka triple-double 5.2%, Giannis triple-double 4.8%, Domantas Sabonis triple-double 4.3%. These are chances, not calls. Even at 20%, Luka finishes under 40 four nights in five.\n\nWhich lands first: Luka's 40 or Giddey's triple-double?",
-  "hashtags": ["NBA", "Basketball", "NBAAnalytics", "LukaDoncic", "JoshGiddey", "Lakers", "Bulls", "AnthonyEdwards", "TripleDouble", "SportsAnalytics"],
-  "facts": {"sport": "NBA", "period": "Oct 21", "items": [{"what": "Luka Doncic (LAL): Scores 40+", "chance": "20%", "usual_rate": "0.9%"}, {"what": "Josh Giddey (CHI): Triple-double", "chance": "16%", "usual_rate": "0.8%"}, {"what": "Jalen Johnson (ATL): Triple-double", "chance": "6.6%", "usual_rate": "0.8%"}, {"what": "Anthony Edwards (MIN): Scores 40+", "chance": "6.7%", "usual_rate": "0.9%"}, {"what": "Luka Doncic (LAL): Triple-double", "chance": "5.2%", "usual_rate": "0.8%"}, {"what": "Giannis Antetokounmpo (MIA): Triple-double", "chance": "4.8%", "usual_rate": "0.8%"}, {"what": "Giannis Antetokounmpo (MIA): Scores 40+", "chance": "5.3%", "usual_rate": "0.9%"}, {"what": "Domantas Sabonis (SAC): Triple-double", "chance": "4.3%", "usual_rate": "0.8%"}], "method": "Calibrated probabilities from models tested on seasons they never trained on. 'Usual' is how often this happens in a typical game."}
+  "headline": "Luka's 40-point chance: 20%",
+  "caption": "A 40-point game happens in about 0.9% of typical NBA games. Tonight our model gives Luka Doncic a 20% chance. That's roughly 22 times the usual rate, the biggest jump on the Oct 21 board.\n\nJosh Giddey is close behind: a 16% shot at a triple-double, against a usual rate of 0.8%. Further down, Anthony Edwards sits at 6.7% for 40+, Jalen Johnson at 6.6% for a triple-double, and Luka shows up again at 5.2% for one of those too.\n\nThese are chances, not calls. Even at 20%, Luka most likely finishes under 40. The point is how far above normal these players start, from models tested on seasons they never trained on.\n\nWhich one hits tonight: Luka's 40, Giddey's triple-double, or someone further down the list?",
+  "hashtags": ["NBA", "Basketball", "NBAStats", "LukaDoncic", "JoshGiddey", "AnthonyEdwards", "JalenJohnson", "Lakers", "Bulls"],
+  "facts": {
+    "sport": "NBA",
+    "period": "Oct 21",
+    "items": [
+      {"what": "Luka Doncic (LAL): Scores 40+", "chance": "20%", "usual_rate": "0.9%"},
+      {"what": "Josh Giddey (CHI): Triple-double", "chance": "16%", "usual_rate": "0.8%"},
+      {"what": "Jalen Johnson (ATL): Triple-double", "chance": "6.6%", "usual_rate": "0.8%"},
+      {"what": "Anthony Edwards (MIN): Scores 40+", "chance": "6.7%", "usual_rate": "0.9%"},
+      {"what": "Luka Doncic (LAL): Triple-double", "chance": "5.2%", "usual_rate": "0.8%"},
+      {"what": "Giannis Antetokounmpo (MIA): Triple-double", "chance": "4.8%", "usual_rate": "0.8%"},
+      {"what": "Giannis Antetokounmpo (MIA): Scores 40+", "chance": "5.3%", "usual_rate": "0.9%"},
+      {"what": "Domantas Sabonis (SAC): Triple-double", "chance": "4.3%", "usual_rate": "0.8%"}
+    ],
+    "method": "Calibrated probabilities from models tested on seasons they never trained on. 'Usual' is how often this happens in a typical game."
+  }
 }

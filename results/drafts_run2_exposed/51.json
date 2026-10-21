@@ -1,0 +1,18 @@
+{
+  "headline": "Why the Model Loves Houston",
+  "caption": "Our model is all in on Houston tonight. Here's why.\n\nThe biggest push: tonight's players. Who's actually suiting up moved our prediction 6.0 points toward the Rockets. Recent point differential added another 4.2, and team efficiency nudged it 0.2 more. For context, the average game starts at home team by 2.3.\n\nAdd it up and the pick is the Houston Rockets at 85% to beat Dallas. Strong, but not a sure thing.\n\nDoes Dallas have an answer, or is this one Houston's?",
+  "hashtags": ["NBA", "Basketball", "HoustonRockets", "DallasMavericks", "Rockets", "Mavericks", "NBAPicks", "SportsAnalytics"],
+  "facts": {
+    "sport": "NBA",
+    "game": "Dallas Mavericks at Houston Rockets",
+    "start": "2026-10-21T19:30:00",
+    "model_pick": "Houston Rockets",
+    "win_probability": "85%",
+    "what_moved_it": [
+      {"factor": "Tonight's players", "toward": "HOU", "amount": 6.0, "unit": "pts"},
+      {"factor": "Recent point differential", "toward": "HOU", "amount": 4.2, "unit": "pts"},
+      {"factor": "Team efficiency", "toward": "HOU", "amount": 0.2, "unit": "pts"}
+    ],
+    "baseline": "Average game: home team by 2.3"
+  }
+}

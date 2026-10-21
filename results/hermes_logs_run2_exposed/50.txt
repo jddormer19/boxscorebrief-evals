@@ -1,0 +1,18 @@
+Headline: Houston at 85% Tonight
+
+Caption:
+11 NBA games tonight, and our model's most confident pick is the Houston Rockets at 85% over Dallas. The projection: HOU 120.1, DAL 107.6. Strong, but not a lock: Dallas wins this about 3 times in 20.
+
+The coin flip of the night is Milwaukee at Washington. The model leans Wizards at just 52%, with a projected 116.4 to 115.8. Milwaukee takes this one nearly half the time.
+
+Toronto (81% vs Chicago) is the other big favorite. Swipe for every game's pick, win probability and projected score. Projections are estimates, not guarantees.
+
+Which pick would you flip?
+
+Hashtags: NBA, Basketball, NBATonight, Rockets, Mavericks, Bucks, Wizards, Raptors, Bulls
+
+Checks: only "numbers" failed on the first draft, and it still fails ("numbers not in facts: 11"). I didn't revise because it's a false alarm: 11 is how many games are in the facts. The checker didn't flag "3 times in 20", but that number comes from simple math too: 100% minus 85% is 15%, which is 3 in 20.
+
+There was already a drafts/50.json, committed in 970723e from the run 1 you marked as contaminated. When I first ran the check, it passed, but it was checking that old file, not mine. I've overwritten it with this new draft. If you want the old one back: git checkout drafts/50.json
+
+session_id: 20261021_163401_c2b7ef

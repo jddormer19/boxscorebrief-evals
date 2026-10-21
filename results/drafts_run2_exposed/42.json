@@ -1,0 +1,16 @@
+{
+  "headline": "One Bar Tilts It to NY",
+  "caption": "One factor did the heavy lifting on this pick. Watch the bar.\n\nFor 76ers at Knicks, the biggest mover was recent point differential: how much each team has been outscoring (or getting outscored by) opponents lately. It moved our model's prediction 5.0 points toward New York. For context, in an average game the model has the home team by 2.3.\n\nThe pick: Knicks, 74% to win. That's a lean, not a lock. Philly wins this about 1 time in 4.\n\nDo you trust recent form this early, or is it too small a sample?",
+  "hashtags": ["NBA", "Basketball", "Knicks", "76ers", "NewYorkKnicks", "Sixers", "NBAPicks", "SportsAnalytics"],
+  "facts": {
+    "sport": "NBA",
+    "game": "Philadelphia 76ers at New York Knicks",
+    "start": "2026-10-20T18:00:00",
+    "model_pick": "New York Knicks",
+    "win_probability": "74%",
+    "what_moved_it": [
+      {"factor": "Recent point differential", "toward": "NY", "amount": 5.0, "unit": "pts"}
+    ],
+    "baseline": "Average game: home team by 2.3"
+  }
+}

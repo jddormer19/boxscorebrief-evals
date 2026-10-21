@@ -1,6 +1,16 @@
 {
-  "headline": "Knicks Top Tonight's NBA Slate",
-  "caption": "Three NBA games tonight, and our model's most confident pick is the Knicks at 74% over the 76ers. Projection: NY 114.9, PHI 107.5. Strong lean, not a lock: Philly still takes this one roughly a quarter of the time.\n\nThe matchup to watch is Thunder at Spurs, as close to a coin flip as it gets. San Antonio gets the slightest nod at 52%, projected 113.3 to 112.7.\n\nIn Detroit, the Pistons are the pick at 59% over the Celtics, projected 109.7 to 107.1, and Boston wins this one about four times in ten. Swipe for every pick, win chance and projected score.\n\nWhich underdog do you trust tonight: the Celtics in Detroit or the Thunder in San Antonio?",
-  "hashtags": ["NBA", "Basketball", "NBAPicks", "Knicks", "Sixers", "Spurs", "Thunder", "Pistons", "Celtics", "BoxscoreBrief"],
-  "facts": {"sport": "NBA", "season": 2027, "period": "tonight", "games": [{"game": "Boston Celtics at Detroit Pistons", "kickoff": "2026-10-20T14:00:00", "model_pick": "Detroit Pistons", "win_probability": "59%", "projected_score": "BOS 107.1, DET 109.7", "back_to_back": []}, {"game": "Philadelphia 76ers at New York Knicks", "kickoff": "2026-10-20T18:00:00", "model_pick": "New York Knicks", "win_probability": "74%", "projected_score": "PHI 107.5, NY 114.9", "back_to_back": []}, {"game": "Oklahoma City Thunder at San Antonio Spurs", "kickoff": "2026-10-20T20:30:00", "model_pick": "San Antonio Spurs", "win_probability": "52%", "projected_score": "OKC 112.7, SA 113.3", "back_to_back": []}], "most_confident": "New York Knicks 74%"}
+  "headline": "Knicks Lead Tonight's NBA Slate",
+  "caption": "Three NBA games tonight, and our model's surest pick is in the Garden.\n\nThe Knicks are its most confident call at 74% against the 76ers, projected 114.9 to 107.5. Not a lock: Philly takes this one about 1 time in 4.\n\nThe one to watch is Thunder at Spurs. The model leans San Antonio at just 52%, with projections of 113.3 to 112.7. That's a coin flip, and OKC wins it nearly half the time. Elsewhere, Detroit is a 59% pick at home over Boston, projected 109.7 to 107.1.\n\nSwipe for every pick, win probability and projected score. Which call would you flip?",
+  "hashtags": ["NBA", "Basketball", "NBAPicks", "NewYorkKnicks", "Sixers", "OKCThunder", "SanAntonioSpurs", "DetroitPistons", "BostonCeltics"],
+  "facts": {
+    "sport": "NBA",
+    "season": 2027,
+    "period": "tonight",
+    "games": [
+      {"game": "Boston Celtics at Detroit Pistons", "kickoff": "2026-10-20T14:00:00", "model_pick": "Detroit Pistons", "win_probability": "59%", "projected_score": "BOS 107.1, DET 109.7", "back_to_back": []},
+      {"game": "Philadelphia 76ers at New York Knicks", "kickoff": "2026-10-20T18:00:00", "model_pick": "New York Knicks", "win_probability": "74%", "projected_score": "PHI 107.5, NY 114.9", "back_to_back": []},
+      {"game": "Oklahoma City Thunder at San Antonio Spurs", "kickoff": "2026-10-20T20:30:00", "model_pick": "San Antonio Spurs", "win_probability": "52%", "projected_score": "OKC 112.7, SA 113.3", "back_to_back": []}
+    ],
+    "most_confident": "New York Knicks 74%"
+  }
 }

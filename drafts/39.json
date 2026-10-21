@@ -1,7 +1,7 @@
 {
-  "headline": "Rays Close Out the ALCS",
-  "caption": "The Tampa Bay Rays are ALCS champions, finishing off the Cleveland Guardians 4-2.\n\nOur model picked Tampa Bay before the series with a 56% chance, so this one goes down as a hit. It projected a 4-3 series, and the Rays needed one fewer game than that. A 56% pick is close to a coin flip, which makes calling it right a little sweeter.\n\nThat puts the model at 7 of 9 on series picks so far this postseason.\n\nDid you see the Rays winning this one, or were you riding with Cleveland?",
-  "hashtags": ["MLB", "Baseball", "Postseason", "ALCS", "TampaBayRays", "Rays", "ClevelandGuardians", "Guardians"],
+  "headline": "Rays Win the ALCS",
+  "caption": "The Tampa Bay Rays have won the ALCS, taking the series 4-2 over the Cleveland Guardians.\n\nOur model called it before the series started: Tampa Bay at a 56% chance, with a projected 4-3 series. The pick was right, and the length came within one game. A 56% call is closer to a coin flip than a lock, so this one was earned on the field.\n\nThat makes our pre-series picks 7 of 9 so far this postseason.\n\nDid you see the Rays winning this series, or did Cleveland have you convinced?",
+  "hashtags": ["MLB", "Baseball", "MLBPostseason", "ALCS", "TampaBayRays", "Rays", "ClevelandGuardians", "Postseason"],
   "facts": {
     "series": "ALCS",
     "winner": "Tampa Bay Rays",

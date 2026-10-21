@@ -1,0 +1,21 @@
+I wrote the case 41 post to drafts/41.json. The checker flags one number, 35.7, but that's a false alarm, so I kept it. Nothing was published.
+
+Headline: Week 6: Our Model Went 5-9
+
+Caption:
+Week 6 was rough: our model went 5-9, and we're showing every miss.
+
+The ones that stung most: LA at 84% lost 18-16 to ARI, and IND at 78% lost 26-20 to TEN. JAX, BAL, NYG and ATL all fell as favorites too, and all three near coin flips (SEA 50%, PHI and TB 52%) broke the other way.
+
+What held up: NE and SF at 83%, KC at 76% (22-6 over LAC), plus BUF and GB. Season so far: 5 of 14 correct, 35.7%. A strong favorite is still not a lock, and this week the upsets piled up.
+
+Which upset did you see coming?
+
+Hashtags: NFL, Football, NFLWeek6, NFLPicks, Rams, Cardinals, Colts, Titans, Chiefs, 49ers
+
+Checks: only "numbers" failed on the first draft, and it still fails. The flagged 35.7% is the season accuracy, which the facts store as the decimal 0.357. The skill says to keep that kind of number, so I didn't revise.
+
+- drafts/41.json already held a committed draft from the earlier run, which your last commit labels contaminated. I replaced it with this one. The old version is still in git at commit 970723e.
+- I didn't touch the existing changes to drafts/39.json and drafts/40.json.
+
+session_id: 20261021_162735_949399

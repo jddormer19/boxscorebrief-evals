@@ -1,0 +1,16 @@
+I wrote the draft to drafts/45.json. The checker still flags one thing, and I left it in on purpose.
+
+Headline: Brewers Climb, Rays Surge
+
+Caption:
+Milwaukee started the playoffs at 26% to win the World Series in our model. Today it sits at 67%, a 41-point climb and the biggest rise on the chart.
+
+Tampa Bay made the biggest move today, jumping from 11% to 33%. That is up from 10% at the start, and 33% is the highest the Rays have been all postseason.
+
+The biggest fall belongs to the Dodgers: 24% at the start, a peak of 37%, now 0% after elimination. Cleveland peaked at 20% and the Yankees at 17% before going out, and the White Sox topped out at 9%.
+
+Milwaukee is at 67%, Tampa Bay at 33%. Does the model have this right, or do the Rays keep climbing?
+
+Checks: on the first draft only "numbers" failed (it flagged 41), and it still fails because I didn't revise. That's a false alarm: 41 is simple math from the facts (67% now minus 26% at the start), so I kept it.
+
+session_id: 20261021_164400_53dd16

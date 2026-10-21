@@ -1,0 +1,18 @@
+Wrote the case 49 post to drafts/49.json. Nothing was published.
+
+Headline: Week 7: Vikings Lead the Board
+
+Caption:
+Our model's most confident pick of NFL week 7: the Minnesota Vikings at 71% over the Indianapolis Colts. Kyler Murray vs Daniel Jones, projected MIN 25.3, IND 18.5. Indy still takes this one about 3 times in 10.
+
+The opener is the real coin flip. Drake Maye's Patriots at Caleb Williams' Bears sits at 50%, with a projection of NE 23.9, CHI 24.0. Patrick Mahomes and the Chiefs at Seattle (51%) and Cowboys at Eagles (51%) are nearly as tight.
+
+All 14 games are on the card with the pick, win probability and projected score. Swipe through the full slate.
+
+Which pick do you think the model has wrong this week?
+
+Hashtags: NFL, Football, NFLWeek7, MinnesotaVikings, KylerMurray, Patriots, Bears, DrakeMaye, CalebWilliams
+
+Checks: the first draft failed only "numbers" (it flagged "14"), and that check still fails. I kept the number because it's a false alarm: it's the count of games in the case's facts, which the skill allows. No revision was needed.
+
+session_id: 20261021_164603_dc6d70
