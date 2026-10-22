@@ -4,7 +4,8 @@ from pathlib import Path
 
 DB = Path.home() / "insta-stats/data/insta_stats.sqlite3"
 OUT = Path(__file__).resolve().parent.parent / "data/cases.jsonl"
-TEST_FRACTION = 0.3
+TEST_START = "2026-10-18"            # dev = posts before this date
+FRESH_START = "2026-10-21T18:00"     # fresh = posts created after the harness was built
 
 def load_posts():
     conn = sqlite3.connect(f"file:{DB}?mode=ro", uri=True)
@@ -31,16 +32,17 @@ def to_case(row):
 
 def main():
     cases = [c for c in (to_case(r) for r in load_posts()) if c]
-    n_dev = round(len(cases) * (1 - TEST_FRACTION))
-    for i, c in enumerate(cases):
-        if i < n_dev:
-            c["split"] = "dev"
-        else:
-            c["split"] = "test"
+    for c in cases:
+            if c["created_at"] < TEST_START:
+                    c["split"] = "dev"
+            elif c["created_at"] < FRESH_START:
+                    c["split"] = "test"
+            else:
+                    c["split"] = "fresh"    
 
     OUT.write_text("".join(json.dumps(c) + "\n" for c in cases))
     print(f"wrote {len(cases)} cases to {OUT}") 
-    for split in ("dev", "test"):
+    for split in ("dev", "test", "fresh"):
         part = [c for c in cases if c["split"] == split]
         statuses = {}
         for c in part:
