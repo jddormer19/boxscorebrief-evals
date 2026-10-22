@@ -1,5 +1,7 @@
 # boxscorebrief-evals
 
+![tests](https://github.com/jddormer19/boxscorebrief-evals/actions/workflows/tests.yml/badge.svg)
+
 An evaluation harness for the AI that writes captions for [@boxscorebrief](https://instagram.com/boxscorebrief),
 a live sports-by-the-numbers Instagram account. It measures caption quality with rule-based graders and a
 calibrated LLM judge, then uses those measurements to improve the writer.
