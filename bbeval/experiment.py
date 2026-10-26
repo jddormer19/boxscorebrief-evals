@@ -1,3 +1,5 @@
+import statistics
+import time
 import json
 import sys
 from pathlib import Path
@@ -21,9 +23,9 @@ class PostCopy(BaseModel):
     caption: str
     hashtags: list[str]
 
-
 def write(prompt, kind, facts):
     """Write one post exactly the way insta-stats does, but with the given system prompt."""
+    start = time.perf_counter()
     response = client.beta.messages.parse(
         model=WRITER_MODEL,
         max_tokens=16000,
@@ -32,7 +34,8 @@ def write(prompt, kind, facts):
         messages=[{"role": "user", "content": f"Post type: {kind}\nFacts:\n{json.dumps(facts, indent=2)}"}],
         output_format=PostCopy,
     )
-    return response.parsed_output, response.usage
+    seconds = time.perf_counter() - start
+    return response.parsed_output, response.usage, seconds
 
 
 def rules_passed(copy, facts):
@@ -54,7 +57,7 @@ def run(version):
     out = Path(f"results/experiment_{version}.jsonl")
     with out.open("w") as f:
         for case in CASES:
-            copy, usage = write(prompt, case["kind"], case["facts"])
+            copy, usage, seconds = write(prompt, case["kind"], case["facts"])
             verdict = judge(copy.headline, copy.caption, case["facts"])
             passed, total = rules_passed(copy, case["facts"])
             row = {
@@ -66,6 +69,7 @@ def run(version):
                 "rules_total": total,
                 "input_tokens": usage.input_tokens,
                 "output_tokens": usage.output_tokens,
+                "write_seconds": round(seconds, 2),
             }
             f.write(json.dumps(row) + "\n")
             print(f"  {version} #{case['id']}: quality={verdict.quality} factual={verdict.factual} "
@@ -80,6 +84,8 @@ def summary(version):
           f" | loser framing {sum(r['loser_framing'] for r in rows)}/{n}"
           f" | rules {sum(r['rules_passed'] for r in rows)}/{sum(r['rules_total'] for r in rows)}"
           f" | writer tokens in/out {sum(r['input_tokens'] for r in rows)}/{sum(r['output_tokens'] for r in rows)}")
+    times = [r["write_seconds"] for r in rows if "write_seconds" in r]
+    print(f"     median write time: {statistics.median(times):.1f}s" if times else "     median write time: n/a")
 
 
 if __name__ == "__main__":
