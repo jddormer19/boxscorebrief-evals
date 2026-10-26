@@ -19,14 +19,10 @@ Local models run with Ollama, 4-bit quantized Qwen 2.5.
 *The 3B run reused a cached prompt from an earlier run, so its time isn't comparable to the cold runs.
 
 ## What I learned
-- ✍️ Where the time goes on a CPU (reading vs writing), and why prompt length matters more locally than with an API.
-- ✍️ What changed between 3B and 7B, and what that says about choosing a model size.
-- ✍️ Why the 3B caption was the most dangerous one even though it looked the best.
-- ✍️ Why the comparison has to use the same conditions (cold vs warm).
+- Locally, a long prompt will cost time whereas with an API they mostly cost money. When running, 35 of the 1.5B's 49 seconds went to reading the 1,516-token prompt. 
+- There is a size threshold for reading structured data. Going from 3B to 7B, factor directions went from 1/4 to 4/4 and invented claims disappeared.
+- The 3B was most dangerous because it had the right format and number but wrong facts. It looks convincing.
+- We used a cached prompt with the 3B so its time can't be compared with the cold runs.
 
 ## Next (Friday)
-- ✍️ How you'll use the 7B in the LangGraph pipeline (hint: escalation).
-
-Writing tips:
-- Write like you'd say it to an interviewer: "On a CPU, most of the time went to..."
-- Use a number in each line where you can (35 of 49 seconds, 0/4 → 4/4). Specific beats general.
+- the free 7B writes, rule graders check, and the failures will get sent to claude
