@@ -1,3 +1,4 @@
+import statistics
 import json
 from datetime import date
 from pathlib import Path
@@ -19,7 +20,7 @@ def scored_ids():
 def score(case, version):
     """Write, judge and rule-check one fresh post with one prompt version."""
     prompt = Path(f"prompts/{version}.txt").read_text()
-    copy, usage = write(prompt, case["kind"], case["facts"])
+    copy, usage, seconds = write(prompt, case["kind"], case["facts"])
     verdict = judge(copy.headline, copy.caption, case["facts"])
     passed, total = rules_passed(copy, case["facts"])
     return {
@@ -32,6 +33,7 @@ def score(case, version):
         "rules_total": total,
         "input_tokens": usage.input_tokens,
         "output_tokens": usage.output_tokens,
+        "write_seconds": round(seconds, 2),
     }
 
 
@@ -56,7 +58,9 @@ def report(new):
               f" | factual {sum(r['factual'] for r in rs)}/{n}"
               f" | loser framing {sum(r['loser_framing'] for r in rs)}/{n}"
               f" | rules {sum(r['rules_passed'] for r in rs)}/{sum(r['rules_total'] for r in rs)}")
-
+        times = [r["write_seconds"] for r in rs if "write_seconds" in r]
+        if times:
+            print(f"    median write time: {statistics.median(times):.1f}s")
 
 if __name__ == "__main__":
     new = score_new()
