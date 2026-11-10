@@ -21,9 +21,11 @@ My own prompt was teaching the bad habit. Many captions described our picks as l
 
 ## The fixes and the results
 I made three changes to the writer's prompt, one for each problem I found: I replaced the example that taught "loser" framing, required "biggest" claims to be checked against every team, and explained that the model's factor amounts are adjustments to a prediction, not real stats.
-On the 16 test posts, writing fresh captions with the same model and grading them blind, loser framing dropped from 9 to 0, judge-flagged factual errors from 2 to 0, and average quality rose from 3.38 to 4.81, for about 5% more tokens.
+On the 16 test posts, writing fresh captions with the same model and grading them blind, loser framing dropped from 9 to 0, judge-flagged factual errors from 2 to 0, and average quality rose from 3.38 to 4.81, for about 6% more tokens.
 I also tested a Hermes agent that writes a draft, checks it with my rule graders, and revises. It tied the improved prompt on quality (4.81) and had zero real rule violations, but it used about 40 times as many tokens. For captions, the prompt fix was the better deal. My takeaway: start with the cheap one-shot prompt, and call the agent only when a cheap check fails.
 One caveat: some of the errors that inspired the new prompt came from my test posts, so the test result may be slightly optimistic. To check, I set up a daily job that scores every new post with both prompts. On the first 6 brand-new posts, the new prompt matched or beat the old one on every post (4.50 → 4.83). That's too few to prove much yet, but the evidence grows every day.
+
+*Update, Nov 10, 2026:* the daily job has now scored 106 brand-new posts: quality 3.53 → 4.51, loser framing 47 → 5, non-factual 12 → 7 (v2 passed every rule grader less often, 68 vs. 76). The new prompt is now in production.
 
 
 ## What I'd do differently, and what's next
